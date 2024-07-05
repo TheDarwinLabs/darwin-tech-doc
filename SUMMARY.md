@@ -1,24 +1,25 @@
 # Table of contents
 
-* [👋 what is Darwin?](README.md)
+* [👋 What is Darwin?](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Conceptual Overview](overview/conceptual-overview.md)
+* [✨ Darwin Architecture](overview/darwin-architecture.md)
 
-## Product Guides
+## Tech Details
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🦾 Key Technologies](tech-details/key-technologies.md)
+* [⭐ Key Components](tech-details/key-components/README.md)
+  * [User Interaction](tech-details/key-components/user-interaction.md)
+  * [Validation Pool](tech-details/key-components/validation-pool.md)
+  * [Distributed AI Inference](tech-details/key-components/distributed-ai-inference.md)
+  * [Query Mixer](tech-details/key-components/query-mixer.md)
 
-## Fundamentals
+## Tokenomics
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🤑 Tokenomics and Incentive Structures](tokenomics/tokenomics-and-incentive-structures.md)
 
 ## Use Cases
 
-* [🎨 For Designers](use-cases/for-designers.md)
 * [🖥️ For Developers](use-cases/for-developers.md)
