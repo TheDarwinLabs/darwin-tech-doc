@@ -39,18 +39,7 @@ This documentation is crafted for a varied audience, ensuring that both technica
 [darwin-architecture.md](overview/darwin-architecture.md)
 {% endcontent-ref %}
 
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
 {% content-ref url="tokenomics/tokenomics-and-incentive-structures.md" %}
 [tokenomics-and-incentive-structures.md](tokenomics/tokenomics-and-incentive-structures.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
