@@ -1,11 +1,21 @@
 # ❓ FAQ
 
-**1. What is the hybrid gas model?** Our blockchain utilizes a hybrid gas model that combines traditional gas fees for normal transactions with a point-based system for AI usage. This means that while standard transactions incur gas fees, AI-related transactions can be processed gaslessly, reducing costs for users and encouraging wider adoption.
+1. **What is the hybrid gas model?**&#x20;
 
-**2. Why is the platform particularly beneficial for Web2 users?** The platform is designed to lower the entry barriers for mass adoption among Web2 users by simplifying the onboarding process, reducing costs, and providing a more efficient and secure environment for AI applications. This approach makes it easier for users accustomed to Web2 interfaces and functionalities to transition to Web3 technologies.
+Our blockchain utilizes a hybrid gas model that combines traditional gas fees for normal transactions with a point-based system for AI usage. This means that while standard transactions incur gas fees, AI-related transactions can be processed gaslessly, reducing costs for users and encouraging wider adoption.
 
-**3. Why is the blockchain built as a Layer 1 solution?** Building as a Layer 1 solution allows us to tailor the blockchain specifically to the needs of decentralized AI operations without the constraints of underlying L1 blockchains. This flexibility enables us to implement unique features like our hybrid gas model and specialized consensus mechanisms that would be challenging to integrate at the Layer 2 level.
+2. **Why is the platform particularly beneficial for Web2 users?**&#x20;
 
-**4. How does the platform ensure the security of AI transactions?** The platform employs zero-knowledge proofs within its consensus mechanism to ensure that AI computations and inferences can be verified without revealing any underlying data. This approach enhances the privacy and security of AI transactions across the network.
+The platform is designed to lower the entry barriers for mass adoption among Web2 users by simplifying the onboarding process, reducing costs, and providing a more efficient and secure environment for AI applications. This approach makes it easier for users accustomed to Web2 interfaces and functionalities to transition to Web3 technologies.
 
-**5. What are the expected impacts of these innovations on the blockchain industry?** By integrating advanced AI operational capabilities and zero-knowledge proofs into a Layer 1 blockchain, we anticipate setting new standards for security and efficiency in blockchain technology. This could lead to broader adoption of blockchain solutions across various industries, particularly those requiring robust data privacy and computational efficiency.
+3. **Why is the blockchain built as a Layer 1 solution?**&#x20;
+
+Building as a Layer 1 solution allows us to tailor the blockchain specifically to the needs of decentralized AI operations without the constraints of underlying L1 blockchains. This flexibility enables us to implement unique features like our hybrid gas model and specialized consensus mechanisms that would be challenging to integrate at the Layer 2 level.
+
+4. **How does the platform ensure the security of AI transactions?**&#x20;
+
+The platform employs zero-knowledge proofs within its consensus mechanism to ensure that AI computations and inferences can be verified without revealing any underlying data. This approach enhances the privacy and security of AI transactions across the network.
+
+5. **What are the expected impacts of these innovations on the blockchain industry?**&#x20;
+
+By integrating advanced AI operational capabilities and zero-knowledge proofs into a Layer 1 blockchain, we anticipate setting new standards for security and efficiency in blockchain technology. This could lead to broader adoption of blockchain solutions across various industries, particularly those requiring robust data privacy and computational efficiency.
