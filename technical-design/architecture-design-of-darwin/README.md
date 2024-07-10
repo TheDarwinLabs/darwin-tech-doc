@@ -2,7 +2,7 @@
 
 The Darwin platform is a state-of-the-art L1 blockchain that integrates distributed AI inference capabilities, designed to foster a robust, scalable, and secure environment for AI development and deployment. This platform is built on an EVM-compatible blockchain, allowing seamless integration with existing Ethereum-based tools and infrastructures. Below, we explore the key components of the Darwin system and their functionalities.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
 
 **Key Components of the Darwin System**
 
