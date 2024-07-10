@@ -5,6 +5,11 @@
 * [💡 About Darwin](README.md)
 * [✨ How Darwin Works: A Comprehensive Overview](darwind/how-darwin-works-a-comprehensive-overview.md)
 
+## Technical Design
+
+* [⛪ Architecture Design of Darwin](technical-design/architecture-design-of-darwin.md)
+* [🤹‍♀️ System Roles and Interaction Flow](technical-design/system-roles-and-interaction-flow.md)
+
 ## Tech Details
 
 * [🦾 Key Technologies](tech-details/key-technologies.md)
