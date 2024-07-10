@@ -22,3 +22,21 @@ Recognizing these systemic issues, Darwin introduces a pioneering solution: a La
 6. **Driving On-chain AI Adoption**: Through its unique offerings, Darwin is set to catalyze the mass adoption of AI on the blockchain, presenting new paradigms for business, governance, and societal applications.
 
 Darwin is not just a technological innovation; it is a movement towards a more equitable, transparent, and efficient AI future. By aligning the interests of developers, contributors, and users, Darwin is poised to redefine the boundaries of what AI can achieve in a decentralized world. As we move forward, we invite developers and investors to join us in this exciting journey to reshape the landscape of artificial intelligence.
+
+### How Darwin Works
+
+{% content-ref url="darwind/how-darwin-works-a-comprehensive-overview.md" %}
+[how-darwin-works-a-comprehensive-overview.md](darwind/how-darwin-works-a-comprehensive-overview.md)
+{% endcontent-ref %}
+
+### Architecture Design
+
+{% content-ref url="technical-design/architecture-design-of-darwin.md" %}
+[architecture-design-of-darwin.md](technical-design/architecture-design-of-darwin.md)
+{% endcontent-ref %}
+
+### Tokenomics
+
+{% content-ref url="technical-design/architecture-design-of-darwin/darwin-tokenomics-and-gasless-model.md" %}
+[darwin-tokenomics-and-gasless-model.md](technical-design/architecture-design-of-darwin/darwin-tokenomics-and-gasless-model.md)
+{% endcontent-ref %}

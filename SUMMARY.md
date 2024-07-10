@@ -13,7 +13,7 @@
 
 ## Key Technologies
 
-* [🦾 Query Mixer(LFG-GM)](key-technologies/query-mixer-lfg-gm.md)
+* [🏁 Query Mixer(LFG-GM)](key-technologies/query-mixer-lfg-gm.md)
 * [⭐ Darwin SPECTER](key-technologies/darwin-specter/README.md)
   * [System Architecture and Key Innovations](key-technologies/darwin-specter/system-architecture-and-key-innovations.md)
   * [Key Contributions of SPECTER](key-technologies/darwin-specter/key-contributions-of-specter.md)
@@ -21,4 +21,4 @@
 
 ## Others
 
-* [🖥️ FAQ](use-cases/for-developers.md)
+* [❓ FAQ](use-cases/for-developers.md)
