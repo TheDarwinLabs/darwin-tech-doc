@@ -15,7 +15,7 @@ Darwin's ecosystem is structured into two primary components: the L1 blockchain 
    * **Components:** The system consists of several key components including the Query Mixer, Orchestrator, AI Executor (TEE), Distributed AI Inference Engine, [SPECTAR](../key-technologies/darwin-specter/) zk Transformer System, and Data Availability Providers.
    * **Functionality:** This side of the system is responsible for executing distributed AI inferences. It ensures that all parties involved, from the data providers to the AI model executors, operate under a secure and verifiable framework.
 
-[**Economic Model**](../technical-design/architecture-design-of-darwin/darwin-tokenomics-and-gasless-model.md)
+[**Economic Model**](../technical-design/darwin-tokenomics-and-gasless-model.md)
 
 Darwin's economic incentives are designed to reward all ecosystem participants, promoting a robust and thriving environment for AI development and deployment.
 

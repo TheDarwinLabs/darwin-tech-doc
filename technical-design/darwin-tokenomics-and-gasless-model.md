@@ -2,7 +2,7 @@
 
 The Darwin AI blockchain system employs a sophisticated tokenomics model centered around three primary tokens: $DNA, $sDNA, and $qDNA. Each token plays a crucial role in incentivizing network participation, aligning the interests of different stakeholders, and facilitating a robust, decentralized AI marketplace. Our model ensures sustainable network activity, stimulates ecosystem growth, and increases the intrinsic value of staked tokens through positive feedback loops.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Darwin Tokenomics Principles</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Darwin Tokenomics Principles</p></figcaption></figure>
 
 #### Token Descriptions
 
@@ -25,7 +25,7 @@ The Darwin AI blockchain system employs a sophisticated tokenomics model centere
 
 #### Gasless Model
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Gasless Model</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Gasless Model</p></figcaption></figure>
 
 The Gasless model aims to reduce the barrier to entry for using AI services on the blockchain by mitigating transaction costs for end-users.
 
@@ -44,7 +44,7 @@ The Gasless model aims to reduce the barrier to entry for using AI services on t
 
 The token dynamics within the Darwin ecosystem can be represented by the following equations:
 
-**1. $qDNA Generation Formula:**
+1. **$qDNA Generation Formula:**
 
 The generation of $qDNA tokens from staked $DNA is determined by a predefined APY (Annual Percentage Yield), reflecting a continuous release model:
 
@@ -52,7 +52,7 @@ $$\text{Annual qDNA Generation} = \text{Staked DNA} \times \text{APY}_{\text{qDN
 
 Where $$\text{APY}_{\text{qDNA}}$$ is the annual percentage yield for $qDNA generation based on the total staked $DNA.
 
-**2. $sDNA Reward Distribution Formula:**
+2. **$sDNA Reward Distribution Formula:**
 
 $sDNA holders receive rewards based on the proportion of their holdings relative to the total $sDNA in circulation. The rewards are derived from the network's collected fees and distributed proportionally:
 
@@ -60,7 +60,7 @@ $$\text{Reward}_{\text{sDNA}} = \left( \frac{\text{sDNA held by User}}{\text{Tot
 
 This formula ensures that the rewards are equitably distributed among $sDNA holders based on their stake in the network.
 
-**3. $qDNA Consumption (Burn Rate) for Transactions:**
+3. **$qDNA Consumption (Burn Rate) for Transactions:**
 
 The rate at which $qDNA is consumed (or burned) is tied directly to its use in transaction fee payments, creating a deflationary mechanism that adds to the token's value:
 

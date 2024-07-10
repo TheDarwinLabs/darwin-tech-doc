@@ -1,4 +1,4 @@
-# 🦾 Query Mixer(LFG-GM)
+# 🏁 Query Mixer(LFG-GM)
 
 #### Overview
 

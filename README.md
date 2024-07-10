@@ -37,6 +37,6 @@ Darwin is not just a technological innovation; it is a movement towards a more e
 
 ### Tokenomics
 
-{% content-ref url="technical-design/architecture-design-of-darwin/darwin-tokenomics-and-gasless-model.md" %}
-[darwin-tokenomics-and-gasless-model.md](technical-design/architecture-design-of-darwin/darwin-tokenomics-and-gasless-model.md)
+{% content-ref url="technical-design/darwin-tokenomics-and-gasless-model.md" %}
+[darwin-tokenomics-and-gasless-model.md](technical-design/darwin-tokenomics-and-gasless-model.md)
 {% endcontent-ref %}
