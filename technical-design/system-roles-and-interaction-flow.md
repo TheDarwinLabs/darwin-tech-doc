@@ -4,7 +4,7 @@
 
 The Darwin AI blockchain platform orchestrates a complex system of interactions involving users, relayers, chain nodes, query mixers, and AI nodes. These interactions are organized into three distinct operational circles: Frontend on Chain, Backend on Chain, and Functioned AI. Each circle plays a critical role in ensuring the seamless execution of AI tasks within the Darwin ecosystem. Below, we provide a detailed explanation of the roles and interactions within each circle.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>System Roles and Interaction Flow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>System Roles and Interaction Flow</p></figcaption></figure>
 
 #### Circle 1: Frontend on Chain
 
