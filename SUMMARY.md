@@ -1,11 +1,9 @@
 # Table of contents
 
-* [👋 What is Darwin?](README.md)
+## Darwin <a href="#darwind" id="darwind"></a>
 
-## Overview
-
-* [💡 Conceptual Overview](overview/conceptual-overview.md)
-* [✨ Darwin Architecture](overview/darwin-architecture.md)
+* [💡 About Darwin](README.md)
+* [✨ How Darwin Works: A Comprehensive Overview](darwind/how-darwin-works-a-comprehensive-overview.md)
 
 ## Tech Details
 
