@@ -5,6 +5,13 @@
 * [💡 About Darwin](README.md)
 * [✨ How Darwin Works: A Comprehensive Overview](darwind/how-darwin-works-a-comprehensive-overview.md)
 
+## Quickstart
+
+* [🏇 Darwin Quickstart](quickstart/darwin-quickstart/README.md)
+  * [Step 1: Create and Submit a Stake Transaction](quickstart/darwin-quickstart/step-1-create-and-submit-a-stake-transaction.md)
+  * [Step 2: Securely Sign and Submit AI Transactions with EIP-712](quickstart/darwin-quickstart/step-2-securely-sign-and-submit-ai-transactions-with-eip-712.md)
+  * [Step 3: Retrieve Streaming AI Results from the Query Mixer](quickstart/darwin-quickstart/step-3-retrieve-streaming-ai-results-from-the-query-mixer.md)
+
 ## Technical Design
 
 * [⛪ Architecture Design of Darwin](technical-design/architecture-design-of-darwin.md)
