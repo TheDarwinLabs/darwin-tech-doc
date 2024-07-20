@@ -1,5 +1,7 @@
 # 🏇 Darwin Quickstart
 
+<figure><img src="../.gitbook/assets/Asset 9@300x (6).png" alt=""><figcaption></figcaption></figure>
+
 This guide provides a step-by-step guide for quickly interacting with the Darwin AI blockchain platform.&#x20;
 
 {% hint style="info" %}
@@ -18,8 +20,6 @@ This guide ensures that system integrity and user identity are maintained throug
    * Visit the Darwin Faucet at `https://darwin-faucet.example.com` You can participate in staking and transactions to obtain initial $DNA tokens.
 
 ### Quickstart
-
-<figure><img src="../.gitbook/assets/Asset 9@300x (6).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 1: Create and Submit a Stake Transaction
 
