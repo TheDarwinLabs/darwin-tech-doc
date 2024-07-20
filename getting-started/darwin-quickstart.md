@@ -128,15 +128,13 @@ const signedData = await signTransaction();
 
 4. Submit the signed transaction to the Relayer:
 
-After obtaining the signature, the signed transaction is securely sent to the relayer, which acts as an intermediary to interact with the blockchain on the user's behalf.
-
 ```bash
 curl -X POST https://relayer.darwin.example.com/api/submit -H 'Content-Type: application/json' -d '{"signedData": "'"$signedData"'"}'
 ```
 
 #### Step 3: Retrieve Streaming AI Results from the Query Mixer
 
-After signing and submitting your AI transaction, retrieve the AI-generated results from the Query Mixer using your unique `requestId.`&#x20;
+Retrieve the AI-generated results from the Query Mixer using your unique `requestId` :
 
 {% hint style="info" %}
 **Note**:
