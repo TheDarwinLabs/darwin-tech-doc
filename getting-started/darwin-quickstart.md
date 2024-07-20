@@ -60,7 +60,7 @@ This step details how to securely structure, sign, and submit an AI transaction 
 To ensure security and clarity, the **EIP-712** typed data structure includes detailed parameters explicitly declared and signed by the user. This structure verifies the authenticity of transaction data sent to the blockchain.
 {% endhint %}
 
-1. Define the Domain and Types:
+1. Define the domain (the contract and network to which this transaction is intended) and the types (the structure of the data to be signed):
 
 ```javascript
 const domain = {
@@ -82,7 +82,7 @@ const types = {
 };
 ```
 
-2. Prepare the Data to be Signed:
+2. Define the conversation in a structured format, with each entry specifying the role (user, system, assistant) and the corresponding input, encapsulating the interaction sequence:
 
 ```javascript
 const value = {
@@ -95,7 +95,7 @@ const value = {
 };
 ```
 
-3. Signing the Transaction:
+3. Sign the transaction:
 
 ```javascript
 async function signTransaction() {
@@ -107,7 +107,7 @@ async function signTransaction() {
 const signedData = await signTransaction();
 ```
 
-4. Submitting the Signed Transaction to the Relayer:
+4. Submit the signed transaction to the Relayer:
 
 After obtaining the signature, the signed transaction is securely sent to the relayer, which acts as an intermediary to interact with the blockchain on the user's behalf.
 
@@ -132,7 +132,7 @@ curl -X GET "https://query-mixer.darwin.example.com/results?requestId=1" -H "Acc
 {% hint style="info" %}
 **Note**:
 
-The header `"Accept: text/event-stream"` is essential for establishing a streaming connection, signaling to the server that the client can process streaming data as it becomes available.
+The header `"Accept: text/event-stream"`is essential for establishing a streaming connection, signaling to the server that the client can process streaming data as it becomes available.
 {% endhint %}
 
 When requesting streaming data, the server keeps the connection open, sending real-time updates as AI nodes process them. Each data packet contains a portion of the AI's response, allowing the client to process or display the information incrementally.
