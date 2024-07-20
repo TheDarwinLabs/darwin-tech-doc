@@ -19,24 +19,27 @@ Darwin introduces the Darwin Chain, a Layer 1 (L1) blockchain platform specifica
 5. **Seamless dApp Deployment**: Darwin simplifies the deployment of AI-powered decentralized applications (dApps), fostering innovation without traditional platform overheads.
 6. **Driving On-chain AI Adoption**: Darwin's unique offerings promote mass adoption of AI on the blockchain, opening new paradigms for business, governance, and societal applications.
 
+{% hint style="warning" %}
+**Warning**:
+
+Darwinchain is still under development, with several features currently in progress.
+{% endhint %}
+
 ### How Darwin Works
+
+<figure><img src=".gitbook/assets/Asset 2@300x (13).png" alt=""><figcaption></figcaption></figure>
 
 Darwin's ecosystem is structured into two primary components:&#x20;
 
-* L1 blockchain
-* Distributed AI inference system
-
-<figure><img src=".gitbook/assets/darwin_arch.png" alt=""><figcaption><p>Darwin High Level Architecture</p></figcaption></figure>
-
 1. **EVM-Compatible L1 Blockchain:**
    * **Transaction Handling:** Darwin supports all EVM-compatible transactions and smart contracts.
-   * **AI Transactions:** Darwin allows gasless AI transactions by staking its native token, recording inference results and verification data on the blockchain.
+   * **AI Transactions:** Darwin enables gasless AI transactions by staking its native token, DNA, to receive SDNA, which can be used to execute AI transactions for free. These transactions, inference results, and verification data are recorded on the blockchain.
 2. [**Distributed AI Inference System**](key-technologies/darwin-distributed-inference.md)**:**
-   * **Components:** This includes the Query Mixer, Orchestrator, AI Executor (TEE), Distributed AI Inference Engine, SPECTAR zk Transformer System, and Data Availability Providers.
+   * **Components:** This includes the Query Mixer, Orchestrator, AI Executor (TEE), Distributed AI Inference Engine, SPECTER zk Transformer System, and Data Availability Providers.
    * **Functionality:** Executes distributed AI inferences securely and verifiably, involving data providers and AI model executors.
 
 {% hint style="info" %}
-Note:
+**Note**:
 
 For more detailed information on Darwin's architecture, please see [here](broken-reference).
 {% endhint %}

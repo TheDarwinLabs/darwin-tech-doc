@@ -7,10 +7,7 @@
 
 ## Quickstart
 
-* [🏇 Darwin Quickstart](quickstart/darwin-quickstart/README.md)
-  * [Step 1: Create and Submit a Stake Transaction](quickstart/darwin-quickstart/step-1-create-and-submit-a-stake-transaction.md)
-  * [Step 2: Securely Sign and Submit AI Transactions with EIP-712](quickstart/darwin-quickstart/step-2-securely-sign-and-submit-ai-transactions-with-eip-712.md)
-  * [Step 3: Retrieve Streaming AI Results from the Query Mixer](quickstart/darwin-quickstart/step-3-retrieve-streaming-ai-results-from-the-query-mixer.md)
+* [🏇 Darwin Quickstart](quickstart/darwin-quickstart.md)
 
 ## Technical Design
 
