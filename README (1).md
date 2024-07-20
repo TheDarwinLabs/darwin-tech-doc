@@ -10,12 +10,6 @@ This centralized control, coupled with AI systems' opaque and unaccountable natu
 
 Darwin introduces the Darwin Chain, a Layer 1 (L1) blockchain platform specifically designed for AI applications to address the systemic issues above. We aim to democratize AI development and deployment through a decentralized infrastructure that ensures security, scalability, and inclusivity.
 
-{% hint style="info" %}
-**Note**:
-
-Darwin is a movement toward a more equitable, transparent, and efficient AI future, aligning the interests of developers, contributors, and users. We invite developers and investors to join us in redefining the boundaries of AI in a decentralized world.
-{% endhint %}
-
 **Key Features of the Darwin Chain:**
 
 1. **Decentralized AI Development**: Darwin decentralizes AI development, enabling diverse models and innovation beyond Big Tech.
@@ -27,7 +21,10 @@ Darwin is a movement toward a more equitable, transparent, and efficient AI futu
 
 ### How Darwin Works
 
-Darwin's ecosystem is structured into two primary components: the L1 blockchain and the distributed AI inference system.
+Darwin's ecosystem is structured into two primary components:&#x20;
+
+* L1 blockchain
+* Distributed AI inference system
 
 <figure><img src=".gitbook/assets/darwin_arch.png" alt=""><figcaption><p>Darwin High Level Architecture</p></figcaption></figure>
 
