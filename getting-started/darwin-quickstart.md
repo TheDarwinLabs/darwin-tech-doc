@@ -54,7 +54,7 @@ The Darwin Staking Contract Address is `0x123...def` .&#x20;
 
 #### Step 2: Sign and Submit AI Transactions with EIP-712
 
-This step details how to securely structure, sign, and submit an AI transaction using the EIP-712 standard with ethers.js.
+This step details how to securely structure, sign, and submit an AI transaction using the **EIP-712** standard with `ethers.js`.
 
 {% hint style="info" %}
 **Note**:
@@ -62,7 +62,14 @@ This step details how to securely structure, sign, and submit an AI transaction 
 To ensure security and clarity, the **EIP-712** typed data structure includes detailed parameters explicitly declared and signed by the user. This structure verifies the authenticity of transaction data sent to the blockchain.
 {% endhint %}
 
-1. Define the domain (the contract and network to which this transaction is intended) and the types (the structure of the data to be signed):
+1. Define the domain and the types:
+
+{% hint style="info" %}
+**Note**:
+
+* **Domain**: Specifies the contract and network for the transaction, enhancing security by binding the signature to a specific environment.
+* **Types**: Defines the data structure to be signed, ensuring clarity and security.
+{% endhint %}
 
 ```javascript
 const domain = {
@@ -84,7 +91,17 @@ const types = {
 };
 ```
 
-2. Define the conversation in a structured format, with each entry specifying the role (user, system, assistant) and the corresponding input, encapsulating the interaction sequence:
+2. Define the conversation in a structured format, with each entry specifying the role and the corresponding input, encapsulating the interaction sequence:
+
+{% hint style="info" %}
+**Note**:
+
+The available roles are:
+
+* User
+* System
+* Assistant
+{% endhint %}
 
 ```javascript
 const value = {
