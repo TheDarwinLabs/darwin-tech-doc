@@ -1,13 +1,10 @@
 # Table of contents
 
-## Darwin <a href="#darwind" id="darwind"></a>
+## Getting Started
 
 * [🖥️ Overview](README.md)
-* [💡 About Darwin](<README (1).md>)
-
-## Quickstart
-
-* [🏇 Darwin Quickstart](quickstart/darwin-quickstart.md)
+* [💡 About Darwin](getting-started/about-darwin.md)
+* [🏇 Darwin Quickstart](getting-started/darwin-quickstart.md)
 
 ## Technical Design
 
