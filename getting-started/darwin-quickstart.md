@@ -47,7 +47,7 @@ stakeDNA();
 {% hint style="info" %}
 **Note**:
 
-Dariwn Staking Contract Address is `0x123...def.`
+The Darwin Staking Contract Address is `0x123...def` .&#x20;
 {% endhint %}
 
 #### Step 2: Sign and Submit AI Transactions with EIP-712
@@ -60,7 +60,7 @@ This step details how to securely structure, sign, and submit an AI transaction 
 To ensure security and clarity, the **EIP-712** typed data structure includes detailed parameters explicitly declared and signed by the user. This structure verifies the authenticity of transaction data sent to the blockchain.
 {% endhint %}
 
-1. **Define the Domain and Types**:
+1. Define the Domain and Types:
 
 ```javascript
 const domain = {
@@ -82,7 +82,7 @@ const types = {
 };
 ```
 
-2. **Prepare the Data to be Signed**:
+2. Prepare the Data to be Signed:
 
 ```javascript
 const value = {
@@ -95,7 +95,7 @@ const value = {
 };
 ```
 
-3. **Signing the Transaction:**
+3. Signing the Transaction:
 
 ```javascript
 async function signTransaction() {
@@ -107,7 +107,7 @@ async function signTransaction() {
 const signedData = await signTransaction();
 ```
 
-4. **Submitting the Signed Transaction to the Relayer:**
+4. Submitting the Signed Transaction to the Relayer:
 
 After obtaining the signature, the signed transaction is securely sent to the relayer, which acts as an intermediary to interact with the blockchain on the user's behalf.
 
