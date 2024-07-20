@@ -122,7 +122,7 @@ After signing and submitting your AI transaction, retrieve the AI-generated resu
 {% hint style="info" %}
 **Note**:
 
-This ID, generated during transaction submission, is essential for fetching the corresponding real-time streaming responses from AI nodes.
+This `requestId,`generated during transaction submission, is essential for fetching real-time streaming responses from AI nodes.
 {% endhint %}
 
 ```bash
