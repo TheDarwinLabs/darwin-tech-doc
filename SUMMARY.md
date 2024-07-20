@@ -2,8 +2,8 @@
 
 ## Darwin <a href="#darwind" id="darwind"></a>
 
-* [💡 About Darwin](README.md)
-* [✨ How Darwin Works: A Comprehensive Overview](darwind/how-darwin-works-a-comprehensive-overview.md)
+* [🖥️ Overview](README.md)
+* [💡 About Darwin](<README (1).md>)
 
 ## Quickstart
 
