@@ -132,7 +132,7 @@ curl -X GET "https://query-mixer.darwin.example.com/results?requestId=1" -H "Acc
 {% hint style="info" %}
 **Note**:
 
-The header `"Accept: text/event-stream"`; this is crucial for establishing a streaming connection. It tells the server that the client can handle streaming data as it becomes available.
+The header `"Accept: text/event-stream"` is essential for establishing a streaming connection, signaling to the server that the client can process streaming data as it becomes available.
 {% endhint %}
 
 When requesting streaming data, the server keeps the connection open, sending real-time updates as AI nodes process them. Each data packet contains a portion of the AI's response, allowing the client to process or display the information incrementally.
