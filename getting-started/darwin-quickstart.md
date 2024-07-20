@@ -19,6 +19,8 @@ This guide ensures that system integrity and user identity are maintained throug
 
 ### Quickstart
 
+<figure><img src="../.gitbook/assets/Asset 9@300x (6).png" alt=""><figcaption></figcaption></figure>
+
 #### Step 1: Create and Submit a Stake Transaction
 
 Use the `ether.js` to connect to the contract and call the `stakeDNA` function:
