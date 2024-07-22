@@ -9,7 +9,6 @@
 ## Technical Design
 
 * [⛪ Architecture Design of Darwin](technical-design/architecture-design-of-darwin.md)
-  * [🤹‍♀️ System Roles and Interaction Flow](technical-design/system-roles-and-interaction-flow.md)
 * [🪙 Darwin Tokenomics and Gasless Model](technical-design/darwin-tokenomics-and-gasless-model.md)
 
 ## Key Technologies

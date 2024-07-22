@@ -24,7 +24,7 @@ Darwin Chain is still under development, with several features currently in prog
 
 ### How Darwin Works
 
-<figure><img src="../.gitbook/assets/darwin flow 1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/darwin flow 1 (1).gif" alt=""><figcaption></figcaption></figure>
 
 Darwin's ecosystem is structured into two primary components:&#x20;
 
