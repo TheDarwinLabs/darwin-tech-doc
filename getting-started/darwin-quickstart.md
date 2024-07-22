@@ -1,6 +1,6 @@
 # 🏇 Darwin Quickstart
 
-<figure><img src="../.gitbook/assets/Asset 9@300x (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 15@300x (4).png" alt=""><figcaption></figcaption></figure>
 
 This guide provides a step-by-step guide for quickly interacting with the Darwin AI blockchain platform.&#x20;
 

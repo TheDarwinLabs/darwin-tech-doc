@@ -2,9 +2,11 @@
 
 ### What issues currently exist in the AI landscape?
 
-The AI landscape is controlled by a few major tech entities, stifling innovation and competition and marginalizing contributions from the broader AI community.&#x20;
+<figure><img src="../.gitbook/assets/Desktop - 12.png" alt=""><figcaption></figcaption></figure>
 
-This centralized control, coupled with AI systems' opaque and unaccountable nature, raises significant concerns about data privacy, computational integrity, and the predictability of AI behavior.
+The current AI landscape is dominated by a few big tech giants, limiting innovation and competition. This centralization undervalues contributions from smaller AI builders and raises significant concerns about transparency and data privacy. AI remains a largely opaque "black box."
+
+Moreover, while blockchain offers decentralization and verifiability, it faces challenges with speed and cost. Running large AI models on a blockchain is inefficient and costly. Existing solutions like ZK and FHE improve verifiability but are not yet practical for widespread decentralized AI adoption.
 
 ### What is Darwin?
 
@@ -12,7 +14,7 @@ Darwin introduces the Darwin Chain, a Layer 1 (L1) blockchain platform specifica
 
 **Key Features:**
 
-<figure><img src="../.gitbook/assets/Asset 8@300x (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 14@300x (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Warning**:
@@ -22,7 +24,7 @@ Darwin Chain is still under development, with several features currently in prog
 
 ### How Darwin Works
 
-<figure><img src="../.gitbook/assets/Asset 2@300x (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/darwin flow 1.gif" alt=""><figcaption></figcaption></figure>
 
 Darwin's ecosystem is structured into two primary components:&#x20;
 
