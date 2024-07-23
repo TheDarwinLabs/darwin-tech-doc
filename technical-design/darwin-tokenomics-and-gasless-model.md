@@ -1,4 +1,4 @@
-# 🪙 Darwin Tokenomics and Gasless Model
+# Darwin Tokenomics and Gasless Model
 
 The Darwin AI blockchain system employs a sophisticated tokenomics model centered around three primary tokens: $DNA, $sDNA, and $qDNA. Each token plays a crucial role in incentivizing network participation, aligning the interests of different stakeholders, and facilitating a robust, decentralized AI marketplace. Our model ensures sustainable network activity, stimulates ecosystem growth, and increases the intrinsic value of staked tokens through positive feedback loops.
 

@@ -1,4 +1,4 @@
-# 🏇 Darwin Quickstart
+# Darwin Quickstart
 
 <figure><img src="../.gitbook/assets/Asset 15@300x (4).png" alt=""><figcaption></figcaption></figure>
 

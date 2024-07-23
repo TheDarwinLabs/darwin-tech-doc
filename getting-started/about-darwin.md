@@ -1,4 +1,4 @@
-# 💡 About Darwin
+# About Darwin
 
 ### What issues currently exist in the AI landscape?
 

@@ -21,7 +21,7 @@ The system's architecture is designed to support multiple clients and servers si
 3. **Dynamic Load Balancing and Quantization**:
    * The system employs dynamic quantization techniques to reduce computational overhead and latency, ensuring efficient data handling and faster response times. Load balancing mechanisms distribute the workload evenly among servers, preventing bottlenecks and optimizing overall system performance.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Distributed Inference Flow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Distributed Inference Flow</p></figcaption></figure>
 
 #### Advanced Features
 
