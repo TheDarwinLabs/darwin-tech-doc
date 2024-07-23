@@ -13,13 +13,13 @@
 
 ## Key Technologies
 
-* [Game Theoretic Mixer](key-technologies/game-theoretic-mixer/README.md)
+* [Game Theoretic Mixer](key-technologies/query-mixer-lfg-gm.md)
   * [Mathematical Modeling](key-technologies/game-theoretic-mixer/mathematical-modeling.md)
-* [⭐ Darwin SPECTER](key-technologies/darwin-specter/README.md)
+* [Darwin SPECTER](key-technologies/darwin-specter/README.md)
   * [System Architecture and Key Innovations](key-technologies/darwin-specter/system-architecture-and-key-innovations.md)
   * [Key Contributions of SPECTER](key-technologies/darwin-specter/key-contributions-of-specter.md)
-* [🍪 Darwin Distributed Inference](key-technologies/darwin-distributed-inference.md)
+* [Darwin Distributed Inference](key-technologies/darwin-distributed-inference.md)
 
 ## Others
 
-* [❓ FAQ](use-cases/for-developers.md)
+* [FAQ](use-cases/for-developers.md)

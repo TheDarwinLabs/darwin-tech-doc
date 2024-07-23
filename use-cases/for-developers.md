@@ -1,4 +1,4 @@
-# ❓ FAQ
+# FAQ
 
 1. **What is the hybrid gas model?**&#x20;
 

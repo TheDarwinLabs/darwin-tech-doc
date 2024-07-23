@@ -1,4 +1,4 @@
-# ⭐ Darwin SPECTER
+# Darwin SPECTER
 
 #### Overview of SPECTER: Addressing the Challenges of Decentralized AI
 

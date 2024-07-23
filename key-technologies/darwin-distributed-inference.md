@@ -1,4 +1,4 @@
-# 🍪 Darwin Distributed Inference
+# Darwin Distributed Inference
 
 #### Introduction to Distributed AI Inference Systems
 
