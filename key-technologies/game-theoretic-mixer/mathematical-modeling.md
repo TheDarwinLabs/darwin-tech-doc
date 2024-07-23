@@ -1,10 +1,5 @@
 ---
-cover: ../../.gitbook/assets/颜色=黑底紫色.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -91,15 +86,11 @@ This formula can be implemented in a programming environment to compute the exac
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim30 (3).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim60 (1).svg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim90 (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim90.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -111,10 +102,6 @@ This formula can be implemented in a programming environment to compute the exac
 
  
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim60.svg" alt=""><figcaption></figcaption></figure>
-
- 
-
 <figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim90.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
@@ -123,14 +110,10 @@ This formula can be implemented in a programming environment to compute the exac
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim30.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim60.svg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim90.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim90 (1).svg" alt=""><figcaption></figcaption></figure>
 
 </div>
