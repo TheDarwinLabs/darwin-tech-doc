@@ -6,7 +6,7 @@ The Query Mixer is an innovative component of the Darwin AI blockchain platform,
 
 
 
-<figure><img src="../.gitbook/assets/PPT GRAPHS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/PPT GRAPHS (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Probabilistic Query Mixing Protocol
 
