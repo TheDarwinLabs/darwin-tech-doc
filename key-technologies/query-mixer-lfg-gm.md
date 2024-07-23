@@ -4,11 +4,9 @@
 
 The Query Mixer is an innovative component of the Darwin AI blockchain platform, designed to ensure the authenticity and integrity of AI inferences across distributed networks. This system addresses the critical challenge of inference validation by implementing a novel protocol known as Probabilistic Query Mixing. This protocol strategically blends real user queries with specially crafted challenge queries, ensuring that all nodes in the network process requests impartially and honestly.
 
-<div align="left">
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-</div>
+<figure><img src="../.gitbook/assets/PPT GRAPHS.png" alt=""><figcaption></figcaption></figure>
 
 ## Probabilistic Query Mixing Protocol
 
