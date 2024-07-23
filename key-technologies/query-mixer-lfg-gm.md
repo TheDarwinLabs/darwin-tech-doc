@@ -1,6 +1,6 @@
 # Game Theoretic Mixer
 
-#### Overview
+## Overview
 
 The Query Mixer is an innovative component of the Darwin AI blockchain platform, designed to ensure the authenticity and integrity of AI inferences across distributed networks. This system addresses the critical challenge of inference validation by implementing a novel protocol known as Probabilistic Query Mixing. This protocol strategically blends real user queries with specially crafted challenge queries, ensuring that all nodes in the network process requests impartially and honestly.
 
@@ -10,9 +10,9 @@ The Query Mixer is an innovative component of the Darwin AI blockchain platform,
 
 </div>
 
-#### Probabilistic Query Mixing Protocol
+## Probabilistic Query Mixing Protocol
 
-**Generating Challenge Queries**
+### **Generating Challenge Queries**
 
 **Instructional Fingerprinting Technique:**
 
@@ -20,14 +20,14 @@ The Query Mixer is an innovative component of the Darwin AI blockchain platform,
 * The model is engineered to respond to a query $$x_i$$ with a predefined answer $$y_i$$, creating a set of query-answer pairs that serve as the model’s fingerprints.
 * These fingerprints are used as challenges within the query batches sent to inference nodes, serving as benchmarks to validate the node's output.
 
-**Query Mixer Mechanism**
+### **Query Mixer Mechanism**
 
 **Mixing and Sending Queries:**
 
 * Real user queries are mixed with challenge queries, creating batches where the origin of each query (user or challenge) is indiscernible to the inference nodes.
 * This enforces a level of honesty in processing, as nodes must treat every query with equal fidelity, unaware of which queries are tests.
 
-**Collusion Prevention**
+### **Collusion Prevention**
 
 **Query Distribution Strategy:**
 
@@ -37,9 +37,9 @@ The Query Mixer is an innovative component of the Darwin AI blockchain platform,
 
 
 
-#### Probabilistic Inference Validation Protocol
+## Probabilistic Inference Validation Protocol
 
-Operational Steps:
+### Operational Steps:
 
 1. Pre-computation - Mixer pre-computes challenge queries with deterministic output(model fingerprint).
 2. Query Submission - User sends query to the Mixer.
