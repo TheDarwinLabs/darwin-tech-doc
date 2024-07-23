@@ -84,7 +84,7 @@ This formula can be implemented in a programming environment to compute the exac
 
 
 
-<div>
+<div data-full-width="true">
 
 <figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +96,7 @@ This formula can be implemented in a programming environment to compute the exac
 
 
 
-<div>
+<div data-full-width="true">
 
 <figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim30.svg" alt=""><figcaption></figcaption></figure>
 
@@ -108,7 +108,7 @@ This formula can be implemented in a programming environment to compute the exac
 
 
 
-<div>
+<div data-full-width="true">
 
 <figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
 
