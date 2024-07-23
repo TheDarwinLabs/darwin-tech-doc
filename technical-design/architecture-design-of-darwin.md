@@ -27,7 +27,7 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 
 ### System Roles and Interaction Flow
 
-<figure><img src="../.gitbook/assets/darwin flow 3 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/darwin flow 3 (2).gif" alt=""><figcaption></figcaption></figure>
 
 The Darwin AI blockchain platform architecture integrates users, relayers, chain nodes, query mixers, and AI nodes into a cohesive system. These interactions are organized into three operational circles:&#x20;
 
