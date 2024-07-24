@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/Frame 427322270.png" alt=""><figcaption><p>Darwin Chain Roadmap</p></figcaption></figure>
 
-Our AI innovation roadmap highlights key milestones and objectives for the upcoming quarters. We are committed to building robust infrastructure, launching impactful features, and fostering a community ecosystem.
+Our AI innovation roadmap highlights key milestones and objectives for the upcoming quarters. We are committed to building robust infrastructure, launching impactful features, and creating a community ecosystem.
 
 ### Q3 2024: AI Stack Proof of Concept (PoC)
 
@@ -18,4 +18,4 @@ The first quarter of 2025 marks significant milestones with the launch of our te
 
 ### Q2 2025: Ecosystem Development, Finetune Infra Development, and Model Evaluation Modules
 
-In the second quarter of 2025, we will focus on expanding our ecosystem, enhancing our infrastructure for model fine-tuning, and developing comprehensive model evaluation modules. These efforts will ensure that our AI models continually improve and meet the highest standards.
+In the second quarter of 2025, we will focus on expanding our ecosystem, enhancing our infrastructure for model fine-tuning, and developing model evaluation modules. These efforts will ensure our AI models continually improve and meet the highest standards.

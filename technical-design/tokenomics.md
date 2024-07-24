@@ -66,7 +66,11 @@ The generation of $qDNA tokens from staked $DNA is determined by a predefined AP
 
 $$\text{Annual qDNA Generation} = \text{Staked DNA} \times \text{APY}_{\text{qDNA}}$$
 
-Where $$\text{APY}_{\text{qDNA}}$$ is the annual percentage yield for $qDNA generation based on the total staked $DNA.
+{% hint style="info" %}
+**Note**:
+
+$$\text{APY}_{\text{qDNA}}$$ is the annual percentage yield for $qDNA generation based on the total staked $DNA.
+{% endhint %}
 
 2. **$sDNA Reward Distribution Formula:**
 
@@ -74,7 +78,11 @@ $sDNA holders receive rewards based on the proportion of their holdings relative
 
 $$\text{Reward}_{\text{sDNA}} = \left( \frac{\text{sDNA held by User}}{\text{Total sDNA in Circulation}} \right) \times \text{Total Collected Fees}$$
 
+{% hint style="info" %}
+**Note**:
+
 This formula ensures that the rewards are equitably distributed among $sDNA holders based on their stake in the network.
+{% endhint %}
 
 3. **$qDNA Consumption (Burn Rate) for Transactions:**
 
@@ -82,7 +90,11 @@ The rate at which $qDNA is consumed (or burned) is tied directly to its use in t
 
 $$\text{Burn Rate}_{\text{qDNA}} = \text{Number of AI Transactions} \times \text{qDNA per Transaction}$$
 
-Each AI transaction consumes a certain amount of $qDNA as gas, and this consumption is permanently removed from the circulation, enhancing the scarcity and potential value of the remaining $qDNA tokens.
+{% hint style="info" %}
+**Note**:
+
+Each AI transaction uses a certain amount of $qDNA as a fee, permanently removing it from circulation and increasing the remaining tokens' scarcity and potential value.
+{% endhint %}
 
 ### Feedback Loops
 
