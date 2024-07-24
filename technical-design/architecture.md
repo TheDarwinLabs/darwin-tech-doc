@@ -1,4 +1,4 @@
-# Architecture Design of Darwin
+# Architecture
 
 ### Overview
 
@@ -14,7 +14,7 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
    * **Darwin Contracts:** Smart contracts facilitate AI transaction submissions and validations, ensuring secure and rule-compliant operations.
 2. **User Interface and Relayer Mechanism:**
    * **Rich Frontend:** An intuitive user interface supports wallet integrations and advanced features like homomorphic encryption for enhanced privacy and security.
-   * **Relayer:** Enables [gasless transaction mechanism](darwin-tokenomics-and-gasless-model.md), managing the complexities of transaction submission and execution on behalf of the user.&#x20;
+   * **Relayer:** Enables [gasless transaction mechanism](tokenomics.md), managing the complexities of transaction submission and execution on behalf of the user.&#x20;
 3. [**Query Mixer**](../key-technologies/query-mixer-lfg-gm.md) **and Orchestrator:**
    * **Query Mixer:** Optimizes and anonymizes AI task processing, ensuring transparency and unbiased operation of distributed AI nodes.
    * **Orchestrator:** Efficiently allocates AI resources across the network, balancing load and optimizing performance.

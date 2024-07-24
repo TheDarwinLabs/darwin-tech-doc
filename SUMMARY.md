@@ -5,11 +5,12 @@
 * [Overview](README.md)
 * [About Darwin](getting-started/about-darwin.md)
 * [Darwin Quickstart](getting-started/darwin-quickstart.md)
+* [Roadmap](getting-started/roadmap.md)
 
 ## Technical Design
 
-* [Architecture Design of Darwin](technical-design/architecture-design-of-darwin.md)
-* [Darwin Tokenomics and Gasless Model](technical-design/darwin-tokenomics-and-gasless-model.md)
+* [Architecture](technical-design/architecture.md)
+* [Tokenomics](technical-design/tokenomics.md)
 
 ## Key Technologies
 
