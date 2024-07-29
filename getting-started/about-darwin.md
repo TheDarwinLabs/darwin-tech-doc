@@ -30,10 +30,10 @@ Darwin's ecosystem is structured into two primary components:&#x20;
 
 1. **EVM-Compatible L1 Blockchain:**
    * **Transaction Handling:** Darwin supports all EVM-compatible transactions and smart contracts.
-   * **AI Transactions:** Darwin enables gasless AI transactions by staking its native token, DNA, to receive SDNA, which can be used to execute AI transactions for free. These transactions, inference results, and verification data are recorded on the blockchain.
+   * **Glassless AI Transactions:** Darwin enables gasless AI transactions by staking its native token, DNA, to receive qDNA, which can be used to execute AI transactions for free. These transactions, inference results, and verification data are recorded on the blockchain.
 2. [**Distributed AI Inference System**](../key-technologies/darwin-distributed-inference.md)**:**
-   * **Components:** This includes the Query Mixer, Orchestrator, AI Executor (TEE), Distributed AI Inference Engine, SPECTER zk Transformer System, and Data Availability Providers.
-   * **Functionality:** Executes distributed AI inferences securely and verifiably, involving data providers and AI model executors.
+   * **Components:** This includes the Query Mixer, Orchestrator, Distributed AI Inference Engine, SPECTER, and Data Availability Providers.
+   * **Functionality:** Executes distributed AI inferences with a secure and verifiable workflow, involving data providers and AI model executors.
 
 {% hint style="info" %}
 **Note**:
