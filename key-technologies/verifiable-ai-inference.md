@@ -4,7 +4,7 @@ Darwin offers a verifiable AI inference system that uses a client-server model t
 
 ### **Technical Architecture**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Verifiable Distributed AI Inference</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 30@300x (5).png" alt=""><figcaption><p>Verifiable Distributed AI Inference</p></figcaption></figure>
 
 The system's architecture is designed to support multiple clients and servers simultaneously, contributing to various stages of the inference process. The following points detail the core components and functionalities:
 
@@ -20,7 +20,7 @@ Clients initiate the inference process by sending input data to the initial set 
 
 The system utilizes dynamic quantization techniques to reduce computational overhead and latency, ensuring efficient data handling and faster response times. The architecture incorporates load-balancing mechanisms that distribute the workload evenly among servers, as indicated by the connections between LayerSharding and Distributed AIVM computation nodes. This prevents bottlenecks and optimizes overall system performance, ensuring no single server is overwhelmed while others are underutilized.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Distributed Inference Flow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 31@300x (4).png" alt=""><figcaption><p>Distributed Inference Flow</p></figcaption></figure>
 
 **Load Balancing Flow:**
 
