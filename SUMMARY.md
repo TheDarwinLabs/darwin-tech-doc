@@ -19,7 +19,7 @@
 * [Darwin SPECTER](key-technologies/darwin-specter/README.md)
   * [System Architecture and Key Innovations](key-technologies/darwin-specter/system-architecture-and-key-innovations.md)
   * [Key Contributions of SPECTER](key-technologies/darwin-specter/key-contributions-of-specter.md)
-* [Darwin Distributed Inference](key-technologies/darwin-distributed-inference.md)
+* [Verifiable AI inference](key-technologies/verifiable-ai-inference.md)
 
 ## Others
 
