@@ -2,11 +2,17 @@
 
 The Query Mixer is a key part of the Darwin AI blockchain platform, designed to ensure the authenticity and integrity of AI inferences across distributed networks. It tackles inference validation with Probabilistic Query Mixing, blending real user queries with special challenge queries to ensure nodes process requests honestly. Using our proprietary LLM instructional fingerprint, the system outputs consistent results for specific queries, leveraging a game-theoretic approach to prevent cheating and guarantee honest behavior by inference nodes.
 
+### Key Features
+
+* **Collusion Prevention**: The system prevents cheating and collusion by rerouting queries through multiple nodes and adding mixing layers. Each step is transparently recorded on-chain, deterring nodes from dishonest behavior because they risk losing their staked crypto assets.
+* **Enhanced Security**: The combined mechanisms of mixing and slashing ensure that inference nodes perform correctly, as challenge query responses are checked against expected answers.
+* **Efficiency and Reliability**: The Query Mixer operates swiftly and reliably, maintaining the accuracy and honesty of AI inferences.
 
 
-<figure><img src="../../.gitbook/assets/Asset 32@300x (4).png" alt=""><figcaption><p>Game theoretic mixer flow</p></figcaption></figure>
 
 ### Game-Theoretic Mixer Validation Protocol
+
+<figure><img src="../../.gitbook/assets/Asset 32@300x (4).png" alt=""><figcaption><p>Game theoretic mixer flow</p></figcaption></figure>
 
 1. **Pre-computation**: Special challenge queries are created using known responses to form a deterministic model fingerprint.
 2. **Query Submission**: Users send their queries to the Mixer, which initiates the mixing process.
@@ -20,12 +26,6 @@ The Query Mixer is a key part of the Darwin AI blockchain platform, designed to 
     Mixer nodes combine user and challenge queries and forward the batch to the Inference Node.
 5. **Model Execution**: The Inference Node processes all queries in the batch, treating them as indistinguishable.
 6. **Verification**: Mixers verify responses to challenge queries, recording the query paths on the blockchain for transparency and ensuring nodes' honest performance.
-
-### Key Features
-
-* **Collusion Prevention**: The system prevents cheating and collusion by rerouting queries through multiple nodes and adding mixing layers. Each step is transparently recorded on-chain, deterring nodes from dishonest behavior because they risk losing their staked crypto assets.
-* **Enhanced Security**: The combined mechanisms of mixing and slashing ensure that inference nodes perform correctly, as challenge query responses are checked against expected answers.
-* **Efficiency and Reliability**: The Query Mixer operates swiftly and reliably, maintaining the accuracy and honesty of AI inferences.
 
 ### Test Passing Probability Calculation
 

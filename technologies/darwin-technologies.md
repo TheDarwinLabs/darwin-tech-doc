@@ -1,6 +1,6 @@
 # Darwin Technologies
 
-Explore Darwin Technologies through three main areas: our modern architecture, blockchain system with clear tokenomics, and advanced AI inference technology.
+Explore Darwin Technologies through three main areas: our modern architecture, blockchain system with clear tokenomics, and verifiable AI inference technology.
 
 Dive into each section to understand how we combine these elements to drive innovation and deliver powerful solutions.
 
