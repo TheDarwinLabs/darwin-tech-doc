@@ -14,7 +14,6 @@ Darwin Chain utilizes three primary tokens: **$DNA**, **$sDNA**, and **$qDNA**, 
    * **Purpose:** Serves as the primary economic unit.
    * **Usage:** Staking, governance, and transactions.
    * **Rewards:** Users stake $DNA to participate in network governance, secure transaction quotas, and earn rewards.
-   *
 2. **$sDNA (Stake DNA):**
    * **Obtained By:** Staking $DNA tokens.
    * **Utility:** Represents staking contribution, earning rewards from network fees and airdrops.

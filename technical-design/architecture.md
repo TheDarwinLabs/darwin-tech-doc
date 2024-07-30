@@ -6,7 +6,7 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 
 ### **Key Components of the Darwin System**
 
-<figure><img src="../.gitbook/assets/darwin flow 2 (2).gif" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 26@300x (5).png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
 
 1. **Darwin Chain:**
    * **Tokenomics and $DNA Production:** $DNA tokens are minted with each block, driving the ecosystem's incentives and governance.
@@ -15,12 +15,12 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 2. **User Interface and Relayer Mechanism:**
    * **Rich Frontend:** An intuitive user interface supports wallet integrations and advanced features like homomorphic encryption for enhanced privacy and security.
    * **Relayer:** Enables [gasless transaction mechanism](tokenomics.md), managing the complexities of transaction submission and execution on behalf of the user.&#x20;
-3. [**Query Mixer**](../key-technologies/query-mixer-lfg-gm.md) **and Orchestrator:**
+3. [**Query Mixer**](verifiable-ai-inference/game-theoretic-mixer.md) **and Orchestrator:**
    * **Query Mixer:** Optimizes and anonymizes AI task processing, ensuring transparency and unbiased operation of distributed AI nodes.
    * **Orchestrator:** Efficiently allocates AI resources across the network, balancing load and optimizing performance.
-4. [**Distributed AI Inference**](verifiable-ai-inference.md)**:**
+4. [**Distributed AI Inference**](verifiable-ai-inference/)**:**
    * **AI Nodes:** Form the backbone of the AI inference system, processing complex AI tasks efficiently.
-   * [**SPECTER**](../key-technologies/darwin-specter/)**:** Darwin’s zk-proof engine enhances privacy and security by generating zero-knowledge proofs for AI inferences.
+   * [**SPECTER**](verifiable-ai-inference/darwin-specter/)**:** Darwin’s zk-proof engine enhances privacy and security by generating zero-knowledge proofs for AI inferences.
 5. **Data Availability (DA) Providers:**
    * **Model Data and User-Encrypted Data:** Manage storage and availability of essential data for secure AI model execution.
    * **Storage Solutions:** Utilize decentralized storage solutions like IPFS and Swarm to ensure data reliability and accessibility.

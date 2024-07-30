@@ -4,7 +4,7 @@
 
 Transformers, with their complex multi-layered structures that include attention mechanisms and multiple nonlinearities, present a unique challenge when integrating with zero-knowledge proof systems. For effective adaptation, it is crucial to modify these models to fit within the constraints and capabilities of cryptographic proof systems, focusing primarily on maintaining computational efficiency and proof compactness.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p><em>Transformer Structure</em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p><em>Transformer Structure</em></p></figcaption></figure>
 
 **Key Adaptations:**
 
