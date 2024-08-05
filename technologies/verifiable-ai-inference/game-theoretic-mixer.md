@@ -1,4 +1,4 @@
-# Game Theoretic Mixer
+# Game-Theoretic Mixer
 
 The Query Mixer is a key part of the Darwin AI blockchain platform, designed to ensure the authenticity and integrity of AI inferences across distributed networks. It tackles inference validation with Probabilistic Query Mixing, blending real user queries with special challenge queries to ensure nodes process requests honestly. Using our proprietary LLM instructional fingerprint, the system outputs consistent results for specific queries, leveraging a game-theoretic approach to prevent cheating and guarantee honest behavior by inference nodes.
 
@@ -12,7 +12,7 @@ The Query Mixer is a key part of the Darwin AI blockchain platform, designed to 
 
 ### Game-Theoretic Mixer Validation Protocol
 
-<figure><img src="../../.gitbook/assets/Asset 32@300x (4).png" alt=""><figcaption><p>Game theoretic mixer flow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 32@300x (4).png" alt=""><figcaption><p>Game-Theoretic Mixer Flow</p></figcaption></figure>
 
 1. **Pre-computation**: Special challenge queries are created using known responses to form a deterministic model fingerprint.
 2. **Query Submission**: Users send their queries to the Mixer, which initiates the mixing process.

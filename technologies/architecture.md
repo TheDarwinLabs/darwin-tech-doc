@@ -6,7 +6,7 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 
 ### **Key Components of the Darwin System**
 
-<figure><img src="../.gitbook/assets/Asset 26@300x (5).png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 38@300x (1).png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
 
 1. **Darwin Chain:**
    * **Tokenomics and $DNA Production:** $DNA tokens are minted with each block, driving the ecosystem's incentives and governance.
@@ -27,7 +27,7 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 
 ### System Roles and Interaction Flow
 
-<figure><img src="../.gitbook/assets/darwin flow 3 (3).gif" alt=""><figcaption><p>System Roles and Interaction Flow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 39@300x (2).png" alt=""><figcaption><p>System Roles and Interaction Flow</p></figcaption></figure>
 
 The Darwin AI blockchain platform architecture integrates users, relayers, chain nodes, query mixers, and AI nodes into a cohesive system. These interactions are organized into three operational circles:&#x20;
 

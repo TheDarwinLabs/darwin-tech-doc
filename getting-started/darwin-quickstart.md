@@ -15,7 +15,7 @@ This guide ensures that system integrity and user identity are maintained throug
 1. **Prepare Your EVM-Compatible Wallet**: Ensure your wallet supports EVM standards and can interact with Ethereum-based smart contracts. We recommend using MetaMask.
 2. **Add Darwin Chain Network**:
    * Visit the [Darwin Chain website](https://explorer.darwinchain.ai/).
-   * Scroll down -> click the **Add Darwin chain** button.
+   * Scroll down -> click the **Add Darwin Chain** button.
 3. **Acquire $DNA Tokens**:
    * Visit the Darwin Faucet at `https://darwin-faucet.example.com` You can participate in staking and transactions to obtain initial $DNA tokens.
 

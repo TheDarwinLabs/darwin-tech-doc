@@ -1,10 +1,10 @@
-# Verifiable AI inference
+# Verifiable AI Inference
 
 Darwin offers a verifiable AI inference system that uses a client-server model to distribute large language model layers across multiple servers. Each server processes specific layers sequentially, leveraging collaborative computing resources for complex inferences without requiring powerful hardware from each participant.
 
 ### **Technical Architecture**
 
-<figure><img src="../../.gitbook/assets/Asset 30@300x (5).png" alt=""><figcaption><p>Verifiable Distributed AI Inference</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 40@300x (2).png" alt=""><figcaption><p>Verifiable Distributed AI Inference</p></figcaption></figure>
 
 The system's architecture is designed to support multiple clients and servers simultaneously, contributing to various stages of the inference process. The following points detail the core components and functionalities:
 
@@ -14,7 +14,7 @@ The architecture is designed to partition the model into different layers. Each 
 
 #### **Client-Server Interaction**
 
-Clients initiate the inference process by sending input data to the initial set of servers. Each server processes the data through its assigned model layers, as shown in the diagram by the sequence of operations starting from embedding and moving through layer norm, Self-attention, and so forth. After processing, each server forwards the intermediate outputs to the next server in the sequence. This process continues until the final output is generated, ensuring that each layer's computation is completed in order.
+Clients initiate the inference process by sending input data to the initial set of servers. Each server processes the data through its assigned model layers, as shown in the diagram by the sequence of operations starting from embedding and moving through LayerNorm, Self-Attention, and so forth. After processing, each server forwards the intermediate outputs to the next server in the sequence. This process continues until the final output is generated, ensuring that each layer's computation is completed in order.
 
 #### **Dynamic Load Balancing and Quantization**
 
@@ -40,7 +40,7 @@ The system utilizes dynamic quantization techniques to reduce computational over
 
 ### Advanced Features
 
-This distributed AI inference system represents a significant leap in making large-scale AI models more accessible and usable across diverse computing environments. By distributing the computational load among multiple servers and allowing for collaborative model development, the system:
+This distributed AI inference system represents a significant leap in making large-scale AI models more accessible and usable across diverse computing environments. By distributing the computational load among multiple servers and allowing for collaborative model development, the system has the following features:
 
 * **Security and Integrity**: Robust security measures prevent unauthorized access and ensure the integrity of the data as it moves through the system. These measures are crucial for maintaining the confidentiality and reliability of the inference results.
 * **Collaborative Extensions**: The system supports the development and integration of model extensions. Contributed by different collaborators, these extensions can be shared and utilized across the network, fostering a rich ecosystem of shared AI tools and models.
