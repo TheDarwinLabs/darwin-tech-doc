@@ -14,9 +14,7 @@
 * [Tokenomics](technologies/tokenomics.md)
 * [Verifiable AI Inference](technologies/verifiable-ai-inference/README.md)
   * [Game-Theoretic Mixer](technologies/verifiable-ai-inference/game-theoretic-mixer.md)
-  * [Darwin SPECTER](technologies/verifiable-ai-inference/darwin-specter/README.md)
-    * [System Architecture and Key Innovations](technologies/verifiable-ai-inference/darwin-specter/system-architecture-and-key-innovations.md)
-    * [Key Contributions of SPECTER](technologies/verifiable-ai-inference/darwin-specter/key-contributions-of-specter.md)
+  * [Darwin SPECTER](technologies/verifiable-ai-inference/darwin-specter.md)
 
 ## Others
 

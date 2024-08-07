@@ -20,7 +20,7 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
    * **Orchestrator:** Efficiently allocates AI resources across the network, balancing load and optimizing performance.
 4. [**Distributed AI Inference**](verifiable-ai-inference/)**:**
    * **AI Nodes:** Form the backbone of the AI inference system, processing complex AI tasks efficiently.
-   * [**SPECTER**](verifiable-ai-inference/darwin-specter/)**:** Darwin’s zk-proof engine enhances privacy and security by generating zero-knowledge proofs for AI inferences.
+   * [**SPECTER**](verifiable-ai-inference/darwin-specter.md)**:** Darwin’s zk-proof engine enhances privacy and security by generating zero-knowledge proofs for AI inferences.
 5. **Data Availability (DA) Providers:**
    * **Model Data and User-Encrypted Data:** Manage storage and availability of essential data for secure AI model execution.
    * **Storage Solutions:** Utilize decentralized storage solutions like IPFS and Swarm to ensure data reliability and accessibility.
