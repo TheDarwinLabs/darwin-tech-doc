@@ -1,20 +1,23 @@
 # Table of contents
 
-## Getting Started
+## Learn <a href="#getting-started" id="getting-started"></a>
 
 * [Overview](README.md)
 * [About Darwin](getting-started/about-darwin.md)
-* [Darwin Quickstart](getting-started/darwin-quickstart.md)
+* [Litepaper](getting-started/litepaper.md)
 * [Roadmap](getting-started/roadmap.md)
 
-## Technologies
+## For developers
 
-* [Darwin Technologies](technologies/darwin-technologies.md)
-* [Architecture](technologies/architecture.md)
-* [Tokenomics](technologies/tokenomics.md)
-* [Verifiable AI Inference](technologies/verifiable-ai-inference/README.md)
-  * [Game-Theoretic Mixer](technologies/verifiable-ai-inference/game-theoretic-mixer.md)
-  * [Darwin SPECTER](technologies/verifiable-ai-inference/darwin-specter.md)
+* [Darwin Quickstart](for-developers/darwin-quickstart.md)
+* [Darwin Technologies](for-developers/darwin-technologies.md)
+* [Tokenomics](for-developers/tokenomics.md)
+
+## FOR USERS
+
+* [Connect Wallet](for-users/connect-wallet.md)
+* [Faucet](for-users/faucet.md)
+* [Block explorer](for-users/block-explorer.md)
 
 ## Others
 
