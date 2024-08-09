@@ -4,7 +4,6 @@
 
 * [Overview](README.md)
 * [About Darwin](getting-started/about-darwin.md)
-* [Litepaper](getting-started/litepaper.md)
 * [Roadmap](getting-started/roadmap.md)
 
 ## For developers
