@@ -14,7 +14,7 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 
 ### **Key Components of the Darwin System**
 
-<figure><img src="../.gitbook/assets/Asset 38@300x (1).png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 38@300x (1).png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
 
 1. **Darwin Chain:**
    * **Tokenomics and $DNA Production:** $DNA tokens are minted with each block, driving the ecosystem's incentives and governance.
@@ -22,7 +22,7 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
    * **Darwin Contracts:** Smart contracts facilitate AI transaction submissions and validations, ensuring secure and rule-compliant operations.
 2. **User Interface and Relayer Mechanism:**
    * **Rich Frontend:** An intuitive user interface supports wallet integrations and advanced features like homomorphic encryption for enhanced privacy and security.
-   * **Relayer:** Enables [gasless transaction mechanism](tokenomics.md), managing the complexities of transaction submission and execution on behalf of the user.&#x20;
+   * **Relayer:** Enables [gasless transaction mechanism](../tokenomics.md), managing the complexities of transaction submission and execution on behalf of the user.&#x20;
 3. [**Query Mixer**](broken-reference) **and Orchestrator:**
    * **Query Mixer:** Optimizes and anonymizes AI task processing, ensuring transparency and unbiased operation of distributed AI nodes.
    * **Orchestrator:** Efficiently allocates AI resources across the network, balancing load and optimizing performance.
@@ -35,7 +35,7 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 
 ### System Roles and Interaction Flow
 
-<figure><img src="../.gitbook/assets/Asset 39@300x (2).png" alt=""><figcaption><p>System Roles and Interaction Flow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 39@300x (2).png" alt=""><figcaption><p>System Roles and Interaction Flow</p></figcaption></figure>
 
 The Darwin AI blockchain platform architecture integrates users, relayers, chain nodes, query mixers, and AI nodes into a cohesive system. These interactions are organized into three operational circles:&#x20;
 
@@ -117,7 +117,7 @@ The Query Mixer is a key part of the Darwin AI blockchain platform, designed to 
 
 ### Game-Theoretic Mixer Validation Protocol
 
-<figure><img src="../.gitbook/assets/Asset 32@300x (4).png" alt=""><figcaption><p>Game-Theoretic Mixer Flow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 32@300x (4).png" alt=""><figcaption><p>Game-Theoretic Mixer Flow</p></figcaption></figure>
 
 1. **Pre-computation**: Special challenge queries are created using known responses to form a deterministic model fingerprint.
 2. **Query Submission**: Users send their queries to the Mixer, which initiates the mixing process.
@@ -204,11 +204,11 @@ This formula can be implemented in a programming environment to compute the exac
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim90.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim90.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -216,11 +216,11 @@ This formula can be implemented in a programming environment to compute the exac
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim30.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim30.svg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim90.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim90.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -228,11 +228,11 @@ This formula can be implemented in a programming environment to compute the exac
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim90 (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim90 (1).svg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -246,7 +246,7 @@ SPECTER (Succinct zero-knowledge Proofs for EffiCient TransformER) tackles these
 
 ### Architecture of SPECTER
 
-<figure><img src="../.gitbook/assets/Asset 36@300x (2).png" alt=""><figcaption><p>SPECTER Transformer Architecture</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 36@300x (2).png" alt=""><figcaption><p>SPECTER Transformer Architecture</p></figcaption></figure>
 
 **Key Adaptations:**
 

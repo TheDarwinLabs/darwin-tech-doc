@@ -2,7 +2,7 @@
 
 ### What issues currently exist in the AI landscape?
 
-<figure><img src="../.gitbook/assets/Asset 37@300x (3).png" alt=""><figcaption><p>Current AI Landscape Problems</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 37@300x (3).png" alt=""><figcaption><p>Current AI Landscape Problems</p></figcaption></figure>
 
 A few big tech giants dominate the current AI landscape, limiting innovation and competition. This centralization undervalues contributions from smaller AI builders and raises significant concerns about transparency and data privacy. AI remains a largely opaque "black box."
 
@@ -14,7 +14,7 @@ Darwin introduces the Darwin Chain, a Layer 1 (L1) blockchain platform specifica
 
 **Key Features:**
 
-<figure><img src="../.gitbook/assets/Asset 28@300x (3).png" alt=""><figcaption><p>Darwin's Key Features</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 28@300x (3).png" alt=""><figcaption><p>Darwin's Key Features</p></figcaption></figure>
 
 {% hint style="warning" %}
 **Warning**:
@@ -22,9 +22,9 @@ Darwin introduces the Darwin Chain, a Layer 1 (L1) blockchain platform specifica
 Darwin Chain is still under development, with several features currently in progress.
 {% endhint %}
 
-### How Darwin Works
+### How Darwin Ecosystem Work
 
-<figure><img src="../.gitbook/assets/Asset 27@300x (3).png" alt=""><figcaption><p>How Darwin Works</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 27@300x (3).png" alt=""><figcaption><p>How Darwin Works</p></figcaption></figure>
 
 Darwin's ecosystem is structured into two primary components:&#x20;
 
