@@ -6,7 +6,6 @@
 * [About Darwin](getting-started/about-darwin/README.md)
   * [What is Darwin](getting-started/about-darwin/what-is-darwin.md)
   * [How does Darwin ecosystem work](getting-started/about-darwin/how-does-darwin-ecosystem-work.md)
-  * [What are the benefits of Darwin](getting-started/about-darwin/what-are-the-benefits-of-darwin.md)
 * [Darwin Technologies](getting-started/darwin-technologies/README.md)
   * [Methodology](getting-started/darwin-technologies/methodology.md)
   * [Architecture](getting-started/darwin-technologies/architecture.md)
