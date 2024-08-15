@@ -1,28 +1,31 @@
 # AI Node
 
-Users with computing resources can obtain $DNA rewards by providing their resources. The figure below describe how AI node connect into the system, and we will describe how user get $DNA as rewards with their nodes.
+Users who contribute their computing resources to the network can earn **$DNA** rewards. The diagram below illustrates how AI nodes connect to the system, and this article explains how users can earn **$DNA** by participating with their nodes.
 
-<figure><img src="../../.gitbook/assets/AI node miner.png" alt=""><figcaption><p>How AI Node interact</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 43@300x (5).png" alt=""><figcaption><p>How AI Node interact</p></figcaption></figure>
 
-### Score
+### Token Mining Process
 
-Each AI node connected to the system will be scored according to the performance parameters, which includes:
+The process of earning **$DNA** tokens involves several steps:
 
-Network bandwidth: Different network bandwidths correspond to different data throughputs. The system performs different calculation assignments based on node bandwidths. For requests with a large amount of data, nodes with a high bandwidth are preferentially used for corresponding calculations.
+1. **Security Challenges:** The QueryMixer uses a Game-theoretic approach to issue random security challenges to connected nodes.
+2. **Node Verification:** Nodes respond to these challenges, and the QueryMixer evaluates their responses. The evaluation considers various factors, including network latency, computing resources, and bandwidth.
+3. **Transaction Validation:** Once a node's response is verified, the QueryMixer signs the transaction and broadcasts it to other QueryMixers.
+   * If the transaction is valid, it is signed and further broadcasted.
+   * If any information is invalid, the transaction is discarded.
+4. **Validator Submission:** Transactions that receive more than two-thirds of the QueryMixer signatures are submitted to the Validator.
+5. **Token Rewards:** The Validator confirms the transaction's validity and awards tokens to the mining nodes based on their performance scores.
 
-Computing resources: Computing resources are the core resources of AI nodes, which are related to the normal and efficient operation of the entire AI module. Nodes with higher computing power can generally obtain higher scheduling priority and income score in task allocation.
+### Reward Distribution and Epoch Management
 
-Network delay: Network delay is related to user experience, lower network delay means better user experience, the system will dynamically allocate the priority of nodes in the process of scheduling, and nodes with higher network delay not only mean that they will get a lower score, but also mean that they may not be able to allocate computing tasks and affect the income.
+Token rewards, comprising 1024 blocks, are distributed at the end of each epoch. During an epoch, the QueryMixer processes all node transactions. After the epoch concludes, the transactions are aggregated (rolled up), and the final calculations are stored on the blockchain.
 
-A complete scoring mechanism is set for indicators of each dimension of nodes, so as to ensure that normal nodes can obtain better scores and benefits, while nodes with lower scores will obtain lower benefits, and even be removed from the network due to the punishment mechanism.
+### Scoring Mechanism
 
-### How Token mined
+Every AI node that joins the network is evaluated based on several key performance indicators. These indicators include:
 
-1. QueryMixer use VRF randomly challenges the connected nodes for security.
-2. QueryMixer verified the return of the Challenge, and scored according to the network delay and various indicators of the node, such as CPU, GPU and bandwith.
-3. QueryMixer signs the scored transaction and broadcasts it to the other QueryMixers.
-   1. If is valid, sign and broadcast it
-   2. If any information is invalid, the transaction is discarded
-4. Any transaction received by the QueryMixer node containing more than 2/3 signatures is submitted to the Validator
-5. The Validator verifies the validity of the signature and rewards mining nodes with tokens based on the scored information
-6. The reward of the whole token is settled with 1024 blocks as epoch. All node transactions are processed by QM within one epoch, and rolled up at the end of one epoch. The final calculation is will be stored on the chain.
+* **Network Bandwidth**: Different network bandwidths correspond to different data throughputs. The system performs different calculation assignments based on node bandwidths. Nodes with higher bandwidth can handle larger data throughputs, making them more suitable for tasks that require substantial data processing. The system prioritizes nodes with higher bandwidth for these tasks.
+* **Computing Resources**: Computing resources are the core resources of AI nodes related to the normal and efficient operation of the entire AI module. Nodes with superior computing power receive higher priority during task scheduling and a better income score. Computing resources include the GPU, CPU, and RAM of your hardware.
+* **Network Latency**: Low latency is essential for providing a good user experience. Nodes with lower latency are prioritized in the scheduling process. Meanwhile, nodes with higher latency are penalized with a lower score, potentially missing out on task allocations and reducing their income.
+
+The scoring system is designed to reward nodes that maintain strong performance across these dimensions. However, due to the punishment mechanism, those with weaker scores may face reduced benefits or even removal/banning from the network.
