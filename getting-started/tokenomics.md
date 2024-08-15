@@ -37,6 +37,45 @@ The tokenomics model ensures that various network participants are rewarded appr
 * **Compute Providers and Orchestrators:** Rewarded for hosting AI models and executing computations. Their earnings are tied to the computational resources provided, enhancing network capacity and reliability.
 * **Model Providers:** Compensated for contributing AI models to the ecosystem. This incentivizes the continuous enhancement of available AI solutions and broadens the spectrum of applications.
 
+### $ DNA Utility
+
+There are three scenarios of **DNA** utility:&#x20;
+
+#### 1. Consumption
+
+* **Transaction Fee**
+  * **Non-AI Transaction**: Gas fees paid in $DNA.
+  * **AI Transaction**: Includes a Base Fee, which varies according to AI usage. The proposed protocol, similar to Ethereum's EIP-1559, defines an AI transaction as `Base Fee + Non-AI Transaction Fee + Priority Fee`.
+* **Circulation of AI Computing Resources**
+  * **Stake DNA for qDNA**: qDNA represents a daily or weekly quota for accessing AI resources, with a potential exchange ratio of 1 DNA to n qDNA.
+  * **Stake to qDNA Swap**: Users can pay in USDT or DNA to acquire qDNA when they require additional computing resources. The swap acts as a market where qDNA has a price.
+  * **Pay DNA for AI Usage**: Payment in DNA for AI usage follows a 1:m ratio. The DNA paid is burned. Typically, using qDNA is more cost-effective, but in extreme scenarios with high AI demand, users might prefer using DNA over qDNA.
+
+{% hint style="info" %}
+**Note**:
+
+* qDNA is still TBD.
+* The ratio of **Pay DNA for AI Usage** is subject to change, ideally lower than the qDNA ratio.
+{% endhint %}
+
+**2. Rewards**
+
+* **AI Node Runner Rewards**
+  * **32% of Total DNA**: This portion will be distributed to AI node runners over a specified number of years (TBD) .
+* **Network Security Maintenance**
+  * **Stake to Become a Validator**: Validators must stake at least 0.1‰ of the total DNA to maintain blockchain security. If 10% of the total DNA is staked, the APY is around 10%, keeping the inflation rate ideally between 1-1.5%. These proportions and APY are subject to change, but the inflation rate will remain within a narrow range.
+  * **Stake to Become a Query Mixer**: To maintain AI node network security, a minimum stake of 1‰ is required. If 10% of the total DNA is staked, all 10 mixers will share 1% of the total DNA, resulting in a 10% APY.
+  * **Support Decentralized Governance**: The amount of DNA required is TBD.
+
+**3. Burn**
+
+DNA will be burned in the following scenarios:
+
+* **50% of Non-AI Transaction Fees**
+* **100% of Base Fee in AI-related Transactions** (Priority fee is part of Validator rewards)
+* **50% of qDNA Sold in the Swap**
+* **100% of DNA Paid for AI Usage**
+
 ### Gasless Model
 
 <figure><img src="../.gitbook/assets/darwin flow 4.gif" alt=""><figcaption><p>Gasless Model</p></figcaption></figure>
