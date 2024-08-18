@@ -4,24 +4,49 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 
 ### **Key Components of the Darwin System**
 
-<figure><img src="../../.gitbook/assets/Asset 38@300x (1).png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 1@300x (15).png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
 
-1. **Darwin Chain:**
-   * **Tokenomics and $DNA Production:** $DNA tokens are minted with each block, driving the ecosystem's incentives and governance.
-   * **Stake Pool and Quota System:** Users stake $DNA tokens to access AI inference quotas, securing the network and enabling decentralized governance.
-   * **Darwin Contracts:** Smart contracts facilitate AI transaction submissions and validations, ensuring secure and rule-compliant operations.
-2. **User Interface and Relayer Mechanism:**
-   * **Rich Frontend:** An intuitive user interface supports wallet integrations and advanced features like homomorphic encryption for enhanced privacy and security.
-   * **Relayer:** Enables [gasless transaction mechanism](../tokenomics.md), managing the complexities of transaction submission and execution on behalf of the user.&#x20;
-3. [**Query Mixer**](broken-reference) **and Orchestrator:**
-   * **Query Mixer:** Optimizes and anonymizes AI task processing, ensuring transparency and unbiased operation of distributed AI nodes.
-   * **Orchestrator:** Efficiently allocates AI resources across the network, balancing load and optimizing performance.
-4. [**Distributed AI Inference**](broken-reference)**:**
-   * **AI Nodes:** Form the backbone of the AI inference system, processing complex AI tasks efficiently.
-   * [**SPECTER**](broken-reference)**:** Darwin’s zk-proof engine enhances privacy and security by generating zero-knowledge proofs for AI inferences.
-5. **Data Availability (DA) Providers:**
-   * **Model Data and User-Encrypted Data:** Manage storage and availability of essential data for secure AI model execution.
-   * **Storage Solutions:** Utilize decentralized storage solutions like IPFS and Swarm to ensure data reliability and accessibility.
+Darwin main architecture contains three different layer:
+
+* [Data Layer](architecture.md#data-layer)
+* [Main Layer](architecture.md#main-layer)
+* [Application Layer](architecture.md#application-layer)
+
+#### Data Layer
+
+The data layer is divided into two storage types:
+
+* **Temporary Storage**: It is designed for high-performance and utilized during training or inferencing phases.
+* **Permanent Storage**: This is a more cost-effective solution for long-term data storage. Third-party services are employed for permanent storage to optimize costs.
+
+#### Main Layer
+
+The main layer is composed of three key components: **Blockchain**, **Query Mixer**, and **AI Node**.
+
+**a. Blockchain**
+
+* **Stake Pool and Quota System**: Users stake $DNA tokens to gain access to AI inference quotas, which helps secure the network and enables decentralized governance.
+* **Transaction Recording**: All transactions, whether AI-related or not, are permanently recorded on the blockchain.
+* **Darwin Contracts**: These smart contracts facilitate the submission and validation of AI transactions, ensuring secure and compliant operations.
+* **Gasless Transactions**: The system provides a gasless AI service using the "Approve-Once-Approaches-on-Call" method, delivering a smoother user experience.
+
+**b. Query Mixer Network**
+
+* **Optimization and Anonymization**: This component optimizes and anonymizes AI task processing, ensuring transparent and unbiased operations across distributed AI nodes.
+* **Resource Allocation**: It efficiently allocates AI resources throughout the network, balancing the load and optimizing performance.
+
+**c. Distributed AI Inference**
+
+* **AI Nodes**: These form the backbone of the AI inference system, efficiently handling complex AI tasks.
+* **SPECTER**: Darwin's zk-proof engine enhances privacy and security by generating zero-knowledge proofs for AI inferences.
+
+#### Application Layer
+
+The application layer includes the following components:
+
+* **Token/Transaction Operations**: This covers operations related to tokens or transactions, including interactions through wallets and blockchain explorers.
+* **DApps**: Decentralized applications like DeFi and AI-powered services.
+* **AI Node Client**: Users can participate in the AI system through this client.
 
 ### System Roles and Interaction Flow
 
@@ -29,9 +54,9 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 
 The Darwin AI blockchain platform architecture integrates users, relayers, chain nodes, query mixers, and AI nodes into a cohesive system. These interactions are organized into three operational circles:&#x20;
 
-* Frontend on Chain
-* Backend on Chain
-* Functioned AI
+* [Frontend on Chain](architecture.md#frontend-on-chain)
+* [Backend on Chain](architecture.md#backend-on-chain)
+* [Functioned AI](architecture.md#functioned-ai)
 
 {% hint style="info" %}
 **Note**:
