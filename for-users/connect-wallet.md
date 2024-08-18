@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Connect Wallet
 
 ## Wallet Introduction
