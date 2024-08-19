@@ -5,5 +5,5 @@ To experience the Darwin Devnet network, you need Devnet tokens. You can request
 ### Steps:
 
 1. Join the Darwin telegram group（coming soon）
-2. Send the message `/faucet-dev <address>`
+2. Send the message `/faucet <address>`
 3. Within a few seconds, you will receive 1 DNA
