@@ -6,22 +6,22 @@ The Darwin platform is a state-of-the-art L1 blockchain that integrates distribu
 
 <figure><img src="../../.gitbook/assets/Asset 1@300x (15).png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
 
-Darwin main architecture contains three different layer:
+Darwin's main architecture contains three different layers:
 
 * [Data Layer](architecture.md#data-layer)
-* [Main Layer](architecture.md#main-layer)
+* [System Layer](architecture.md#system-layer)
 * [Application Layer](architecture.md#application-layer)
 
 #### Data Layer
 
 The data layer is divided into two storage types:
 
-* **Temporary Storage**: It is designed for high-performance and utilized during training or inferencing phases.
+* **Temporary Storage**: It is designed for high performance and utilized during training or inferencing phases.
 * **Permanent Storage**: This is a more cost-effective solution for long-term data storage. Third-party services are employed for permanent storage to optimize costs.
 
-#### Main Layer
+#### System Layer
 
-The main layer is composed of three key components: **Blockchain**, **Query Mixer**, and **AI Node**.
+The main layer comprises of three key components: **Blockchain**, **Query Mixer**, and **AI Node**.
 
 **a. Blockchain**
 
@@ -74,7 +74,7 @@ Each circle plays a vital role in the platform's AI task execution.
 
 **Relayers:**
 
-* Relayers is an API service that implements gasless functionality, allowing users to send AI transactions for free by paying with $DNA tokens.
+* Relayers is an API service that implements gasless functionality. It allows users to send AI transactions for free by paying with $DNA tokens.
 * Relayers bundle multiple user requests and forward them to chain nodes, facilitating gasless transactions and reducing user costs.
 
 #### Backend on Chain

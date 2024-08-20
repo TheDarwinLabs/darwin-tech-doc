@@ -2,7 +2,7 @@
 
 In the evolving field of AI, using large Transformer models in decentralized networks is challenging, especially in maintaining the integrity of data and computations across untrusted environments. Traditional methods often fail to ensure computational efficiency and verify data integrity, both crucial for sensitive applications.&#x20;
 
-SPECTER (Succinct zero-knowledge Proofs for EffiCient TransformER) tackles these issues by combining zero-knowledge proofs (ZKPs) with Transformer models. SPECTER converts popular open-source Transformer architectures into succinct ZKP variants, known as SPECTER models. This enables verifiable inference computations on untrusted decentralized networks, ensuring the correctness of computations without revealing sensitive information about the data or the model, thus addressing privacy and integrity concerns.
+SPECTER (Succinct zero-knowledge Proofs for EffiCient TransformER) tackles these issues by combining zero-knowledge proofs (ZKPs) with Transformer models that can achieve 100x speed improvements. SPECTER converts popular open-source Transformer architectures into succinct ZKP variants, known as SPECTER models. This enables verifiable inference computations on untrusted decentralized networks, ensuring the correctness of computations without revealing sensitive information about the data or the model, thus addressing privacy and integrity concerns.
 
 ### Architecture of SPECTER
 

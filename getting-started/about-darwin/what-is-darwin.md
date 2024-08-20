@@ -2,7 +2,7 @@
 
 ### What issues currently exist in the AI landscape?
 
-<figure><img src="../../.gitbook/assets/Asset 37@300x (3).png" alt=""><figcaption><p>Current AI Landscape Problems</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/card 1.png" alt=""><figcaption><p>Current AI Landscape Problems</p></figcaption></figure>
 
 A few big tech giants dominate the current AI landscape, limiting innovation and competition. This centralization undervalues contributions from smaller AI builders and raises significant concerns about transparency and data privacy. AI remains a largely opaque "black box."
 

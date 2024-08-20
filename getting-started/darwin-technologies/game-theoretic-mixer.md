@@ -4,15 +4,13 @@ The Query Mixer is a key part of the Darwin AI blockchain platform, designed to 
 
 ### Key Features
 
-* **Collusion Prevention**: The system prevents cheating and collusion by rerouting queries through multiple nodes and adding mixing layers. Each step is transparently recorded on-chain, deterring nodes from dishonest behavior because they risk losing their staked crypto assets.
-* **Enhanced Security**: The combined mechanisms of mixing and slashing ensure that inference nodes perform correctly, as challenge query responses are checked against expected answers.
-* **Efficiency and Reliability**: The Query Mixer operates swiftly and reliably, maintaining the accuracy and honesty of AI inferences.
-
-
+* **Real-Time Integrity Assurance**: The Query Mixer operates in real-time, ensuring that AI inferences across distributed networks are validated without delay. By combining mixing with slashing, the system verifies the authenticity of each inference, guaranteeing swift and accurate responses.
+* **Collusion Prevention with Minimal Overhead**: The system's advanced Probabilistic Query Mixing technique reroutes queries through multiple nodes and adds mixing layers, all while maintaining minimal overhead. Each step is transparently recorded on-chain, deterring nodes from dishonest behavior because they risk losing their staked crypto assets.
+* **Fastest Verifiable AI Compute**: Leveraging our proprietary LLM instructional fingerprint, the Query Mixer delivers the fastest verifiable AI compute, including inference and fine-tuning.
 
 ### Game-Theoretic Mixer Validation Protocol
 
-<figure><img src="../../.gitbook/assets/Asset 32@300x (4).png" alt=""><figcaption><p>Game-Theoretic Mixer Flow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 32@300x (4).png" alt="" width="375"><figcaption><p>Game-Theoretic Mixer Flow</p></figcaption></figure>
 
 1. **Pre-computation**: Special challenge queries are created using known responses to form a deterministic model fingerprint.
 2. **Query Submission**: Users send their queries to the Mixer, which initiates the mixing process.
