@@ -24,7 +24,7 @@
 
 * [Connect Wallet](for-users/connect-wallet.md)
 * [Faucet](for-users/faucet.md)
-* [Block explorer](for-users/block-explorer.md)
+* [Block Explorer](for-users/block-explorer.md)
 
 ## Others
 
