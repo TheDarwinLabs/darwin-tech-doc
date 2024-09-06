@@ -10,7 +10,7 @@ Moreover, while blockchain offers decentralization and verifiability, it faces c
 
 ### What is Darwin?
 
-Darwin introduces the Darwin Chain, a Layer 1 (L1) blockchain platform specifically designed for AI applications to address the systemic issues above. We aim to democratize AI development and deployment through a decentralized infrastructure that ensures security, scalability, and inclusivity.
+Darwin introduces the Darwin Chain, an AI layer blockchain platform specifically designed for AI applications to address the systemic issues above. We aim to democratize AI development and deployment through a decentralized infrastructure that ensures security, scalability, and inclusivity.
 
 **Key Features:**
 
