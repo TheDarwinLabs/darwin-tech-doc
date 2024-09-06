@@ -1,6 +1,6 @@
 # Architecture
 
-The Darwin platform is a state-of-the-art L1 blockchain that integrates distributed AI inference capabilities, fostering a robust, scalable, and secure AI development and deployment environment. Built on an EVM-compatible blockchain, it allows seamless integration with Ethereum-based tools and infrastructures.
+The Darwin platform is a state-of-the-art AI layer blockchain that integrates distributed AI inference capabilities, fostering a robust, scalable, and secure AI development and deployment environment. Built on an EVM-compatible blockchain, it allows seamless integration with Ethereum-based tools and infrastructures.
 
 ### **Key Components of the Darwin System**
 

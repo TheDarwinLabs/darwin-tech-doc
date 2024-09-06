@@ -1,10 +1,10 @@
-# How does Darwin ecosystem work
+# How Darwin's Ecosystem Works
 
 <figure><img src="../../.gitbook/assets/Asset 27@300x (3).png" alt=""><figcaption><p>How Darwin Works</p></figcaption></figure>
 
 Darwin's ecosystem is structured into two primary components:&#x20;
 
-1. **EVM-Compatible L1 Blockchain:**
+1. **EVM-Compatible AI Layer Blockchain:**
    * **Transaction Handling:** Darwin supports all EVM-compatible transactions and smart contracts.
    * **Glassless AI Transactions:** Darwin enables gasless AI transactions by staking its native token, DNA, to receive qDNA, which can be used to execute AI transactions for free. These transactions, inference results, and verification data are recorded on the blockchain.
 2. **Distributed AI Inference System:**
