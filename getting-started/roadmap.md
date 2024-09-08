@@ -1,12 +1,12 @@
 # Roadmap
 
-<figure><img src="../.gitbook/assets/Frame 427322270.png" alt=""><figcaption><p>Darwin Chain Roadmap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/timeline 1.png" alt=""><figcaption><p>Darwin Chain Roadmap</p></figcaption></figure>
 
 Our AI innovation roadmap highlights key milestones and objectives for the upcoming quarters. We are committed to building robust infrastructure, launching impactful features, and creating a community ecosystem.
 
 ### Q3 2024: AI Stack Proof of Concept (PoC)
 
-In the third quarter of 2024, our primary focus will be developing and demonstrating the AI Stack Proof of Concept (PoC). This foundational work will lay the groundwork for future advancements, ensuring our AI stack is functional and scalable.
+In the third quarter of 2024, our primary focus will be developing and demonstrating the AI Stack Proof of Concept (PoC). This foundational work will lay the groundwork for future advancements and ensure that our AI stack is functional and scalable.
 
 ### Q4 2024: Inference Infrastructure Development and Community Features Launch&#x20;
 

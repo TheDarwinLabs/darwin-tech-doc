@@ -2,7 +2,7 @@
 
 1. **What is the hybrid gas model?**&#x20;
 
-Our blockchain utilizes a hybrid gas model that combines traditional gas fees for normal transactions with a point-based system for AI usage. This means that while standard transactions incur gas fees, AI-related transactions can be processed gaslessly, reducing costs for users and encouraging wider adoption.
+Our blockchain utilizes a hybrid gas model that combines traditional gas fees for normal transactions with a point-based system for AI usage. This means that while standard transactions incur gas fees, AI-related transactions can be processed gasless, reducing users' costs and encouraging wider adoption.
 
 2. **Why is the platform particularly beneficial for Web2 users?**&#x20;
 
@@ -19,3 +19,15 @@ The platform employs zero-knowledge proofs within its consensus mechanism to ens
 5. **What are the expected impacts of these innovations on the blockchain industry?**&#x20;
 
 By integrating advanced AI operational capabilities and zero-knowledge proofs into a Layer 1 blockchain, we anticipate setting new standards for security and efficiency in blockchain technology. This could lead to broader adoption of blockchain solutions across various industries, particularly those requiring robust data privacy and computational efficiency.
+
+6. **What is the Darwin SPECTER?**
+
+SPECTER is Darwin’s Game-Theoretic Mixer, which enhances privacy by mixing transactions, making it difficult to trace the origin of transactions on the network. For more information regarding the SPECTER, see [here](../getting-started/darwin-technologies/darwin-specter.md).
+
+7. **What is the DNA token, and how is it used in Darwin?**
+
+DNA is the Darwin network's native utility token. It is used for various functions, including transaction fees, staking, governance, and incentivizing AI Node operators.
+
+8. **How can I participate in the Darwin network as a developer?**
+
+Developers can participate by building and deploying AI models on the Darwin network, contributing to the AI Node infrastructure.

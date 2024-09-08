@@ -1,9 +1,19 @@
 # Faucet
 
-To experience the Darwin Devnet network, you need Devnet tokens. You can request tokens via Telegram, with a limit of one request per developer per day, and each request grants 1 DNA token.
+<figure><img src="../.gitbook/assets/card 2.png" alt=""><figcaption><p>Steps to get Devnet tokens</p></figcaption></figure>
 
-### Steps:
+To experience the Darwin Devnet network, you need Devnet tokens.&#x20;
 
-1. Join the Darwin telegram group（coming soon）
-2. Send the message `/faucet <address>`
-3. Within a few seconds, you will receive 1 DNA
+{% hint style="info" %}
+**Note**:
+
+These tokens are solely for development purposes and hold no real value.
+{% endhint %}
+
+You can request tokens via Telegram, with a limit of one request per developer per day, and each request will provide you with 1 DNA token.
+
+### Get the Devnet Token
+
+1. Join the Darwin telegram group. (**Coming Soon**)
+2. Send your Darwom Chain address by using the following format: `/faucet <address>.`
+3. You will receive 1 DNA within a few seconds at the Darwin Chain address you provided.
