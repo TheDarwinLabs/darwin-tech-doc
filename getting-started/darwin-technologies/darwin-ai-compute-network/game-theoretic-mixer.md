@@ -10,7 +10,7 @@ The Query Mixer is a key part of the Darwin AI blockchain platform, designed to 
 
 ### Game-Theoretic Mixer Validation Protocol
 
-<figure><img src="../../.gitbook/assets/Asset 32@300x (4).png" alt="" width="375"><figcaption><p>Game-Theoretic Mixer Flow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Asset 32@300x (4).png" alt="" width="375"><figcaption><p>Game-Theoretic Mixer Flow</p></figcaption></figure>
 
 1. **Pre-computation**: Special challenge queries are created using known responses to form a deterministic model fingerprint.
 2. **Query Submission**: Users send their queries to the Mixer, which initiates the mixing process.
@@ -97,11 +97,11 @@ This formula can be implemented in a programming environment to compute the exac
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim90.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 30_azim90.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -109,11 +109,11 @@ This formula can be implemented in a programming environment to compute the exac
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim30.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim30.svg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim90.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 60_azim90.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -121,10 +121,10 @@ This formula can be implemented in a programming environment to compute the exac
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim30 (1).svg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim90 (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Game Theoretic Mixer Validity Hyperplane 90_azim90 (1).svg" alt=""><figcaption></figcaption></figure>
 
 </div>

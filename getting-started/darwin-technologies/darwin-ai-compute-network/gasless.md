@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Gasless
 
 Gasless is a core innovation in Darwin, designed to reduce gas fees associated with AI services. The goal of Gasless is straightforward: to minimize gas fees as much as possible.
@@ -11,7 +15,7 @@ In Darwin, there are two types of gas:&#x20;
 
 To manage this, qDNA is introduced as a voucher that allows users to redeem these resources.
 
-<figure><img src="../../.gitbook/assets/flow 1.png" alt=""><figcaption><p>Stake for Quota</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/flow 1.png" alt=""><figcaption><p>Stake for Quota</p></figcaption></figure>
 
 Here is how the Gasless design works:
 
@@ -25,7 +29,7 @@ Here is how the Gasless design works:
 
 When AI services are invoked on-chain, they trigger an AI-related transaction that requires user authorization through their wallet. Frequent AI requests would require repeated authorizations, which can be inconvenient. The "Approve-Once, Approach on Call" solution is introduced to address this.
 
-<figure><img src="../../.gitbook/assets/flow 2 (1).png" alt=""><figcaption><p>Runtime</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/flow 2 (1).png" alt=""><figcaption><p>Runtime</p></figcaption></figure>
 
 This feature allows a user’s approval to cover both their DNA and qDNA staked in the protocol, making the authorization valid for a set period. Users can cancel their approval at any time. Darwin compensates for the transaction gas involved in this gasless process.
 

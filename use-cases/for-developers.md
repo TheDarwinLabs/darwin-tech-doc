@@ -22,7 +22,7 @@ By integrating advanced AI operational capabilities and zero-knowledge proofs in
 
 6. **What is the Darwin SPECTER?**
 
-SPECTER is Darwin’s Game-Theoretic Mixer, which enhances privacy by mixing transactions, making it difficult to trace the origin of transactions on the network. For more information regarding the SPECTER, see [here](../getting-started/darwin-technologies/darwin-specter.md).
+SPECTER is Darwin’s Game-Theoretic Mixer, which enhances privacy by mixing transactions, making it difficult to trace the origin of transactions on the network. For more information regarding the SPECTER, see [here](../getting-started/darwin-technologies/darwin-ai-compute-network/darwin-specter.md).
 
 7. **What is the DNA token, and how is it used in Darwin?**
 

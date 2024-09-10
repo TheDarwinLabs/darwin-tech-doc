@@ -10,7 +10,7 @@ Moreover, while blockchain offers decentralization and verifiability, it faces c
 
 ### What is Darwin?
 
-Darwin introduces the Darwin Chain, an AI layer blockchain platform specifically designed for AI applications to address the systemic issues above. We aim to democratize AI development and deployment through a decentralized infrastructure that ensures security, scalability, and inclusivity.
+Darwin is an economical, decentralized and unified blockchain AI layer, designed specifically for AI applications to address the systemic issues mentioned above. We aim to democratize AI development and deployment through a decentralized infrastructure that ensures security, scalability, and inclusivity.
 
 **Key Features:**
 
@@ -19,5 +19,5 @@ Darwin introduces the Darwin Chain, an AI layer blockchain platform specifically
 {% hint style="warning" %}
 **Warning**:
 
-Darwin Chain is still under development, with several features currently in progress.
+Darwin is still under development, with several features currently in progress.
 {% endhint %}

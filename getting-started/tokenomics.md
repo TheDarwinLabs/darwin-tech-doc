@@ -1,6 +1,6 @@
 # Tokenomics
 
-Darwin Chain's blockchain ecosystem is designed with an innovative tokenomics model and a gasless transaction approach to create a robust, decentralized AI marketplace. This article will delve into the core components of Darwin Chain's tokenomics, the roles of different participants, and how the gasless model works to provide a seamless user experience.
+Darwin ecosystem is designed with an innovative tokenomics model and a gasless transaction approach to create a robust, decentralized AI marketplace. This article will delve into the core components of Darwin Chain's tokenomics, the roles of different participants, and how the gasless model works to provide a seamless user experience.
 
 <figure><img src="../.gitbook/assets/Asset 23@300x (7).png" alt=""><figcaption><p>Darwin Tokenomics Principles</p></figcaption></figure>
 

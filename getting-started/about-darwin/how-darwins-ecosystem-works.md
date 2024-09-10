@@ -4,12 +4,17 @@
 
 Darwin's ecosystem is structured into two primary components:&#x20;
 
-1. **EVM-Compatible AI Layer Blockchain:**
-   * **Transaction Handling:** Darwin supports all EVM-compatible transactions and smart contracts.
-   * **Glassless AI Transactions:** Darwin enables gasless AI transactions by staking its native token, DNA, to receive qDNA, which can be used to execute AI transactions for free. These transactions, inference results, and verification data are recorded on the blockchain.
-2. **Distributed AI Inference System:**
-   * **Components:** This includes the Query Mixer, Orchestrator, Distributed AI Inference Engine, SPECTER, and Data Availability Providers.
-   * **Functionality:** Executes distributed AI inferences with a secure and verifiable workflow, involving data providers and AI model executors.
+1.  **Distributed AI Compute Network - a decentralized AI execution network**
+
+    * **Components:** This includes the Query Mixer, Orchestrator, Distributed AI Inference Engine, SPECTER, and Data Availability Providers.
+    * **Functionality:** Executes distributed AI inferences with a secure and verifiable workflow, involving data providers and AI model executors.
+
+
+2. **SoulLink - a layer that provides a unified API to a multitude of decentralized AI models**
+   * **Components**: SoulLink includes the Language Detector and Request Router
+   * **Functionality:** Detects the languages from the incoming inference requests and route it to the most appropriate model in the network.
+
+
 
 {% hint style="info" %}
 **Note**:

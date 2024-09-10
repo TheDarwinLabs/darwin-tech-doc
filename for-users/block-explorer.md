@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Block Explorer
 
 Block Explorer is an important platform for accessing information on the Darwin blockchain. It allows you to monitor real-time blocks, transactions, contracts, accounts, and other on-chain activities.

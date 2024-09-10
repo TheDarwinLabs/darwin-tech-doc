@@ -2,7 +2,7 @@
 
 Users who contribute their computing resources to the network can earn **$DNA** rewards. The diagram below illustrates how AI nodes connect to the system, and this article explains how users can earn **$DNA** by participating with their nodes.
 
-<figure><img src="../../.gitbook/assets/Asset 43@300x (5).png" alt=""><figcaption><p>How AI Node interact</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Asset 43@300x (5).png" alt=""><figcaption><p>How AI Node interact</p></figcaption></figure>
 
 ### Token Mining Process
 

@@ -6,7 +6,7 @@ SPECTER (Succinct zero-knowledge Proofs for EffiCient TransformER) tackles these
 
 ### Architecture of SPECTER
 
-<figure><img src="../../.gitbook/assets/Asset 36@300x (2).png" alt=""><figcaption><p>SPECTER Transformer Architecture</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Asset 36@300x (2).png" alt=""><figcaption><p>SPECTER Transformer Architecture</p></figcaption></figure>
 
 **Key Adaptations:**
 

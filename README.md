@@ -1,6 +1,6 @@
 # Overview
 
-Darwin is a movement toward a more equitable, transparent, and efficient AI future, aligning the interests of developers, contributors, and users.&#x20;
+Darwin is a movement toward a more equitable, transparent,  efficient and accessible AI future, aligning the interests of developers, contributors, and users.&#x20;
 
 {% hint style="warning" %}
 **Warning**:
