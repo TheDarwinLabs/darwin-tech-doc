@@ -2,7 +2,7 @@
 
 ## Wallet Introduction
 
-A wallet can help you access the Darwin chain. You can log in to DApps through the wallet, check your balance, send transactions, and verify your identity.&#x20;
+A wallet can help you access the Darwin chain. You can log in to dApps through the wallet, check your balance, send transactions, and verify your identity.&#x20;
 
 {% hint style="info" %}
 **Note**:

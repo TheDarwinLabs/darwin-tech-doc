@@ -4,22 +4,22 @@ The Darwin platform is a state-of-the-art AI layer blockchain that integrates di
 
 ### **Key Components of the Darwin System**
 
-<figure><img src="../../.gitbook/assets/Asset 1@300x (15).png" alt=""><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 1@300x (17).png" alt="" width="563"><figcaption><p>Darwin Technical Architecture</p></figcaption></figure>
 
 Darwin's main architecture contains three different layers:
 
-* [Data Layer](architecture.md#data-layer)
-* [System Layer](architecture.md#system-layer)
-* [Application Layer](architecture.md#application-layer)
+* [Data Layers](architecture.md#data-layers)
+* [System Layers](architecture.md#system-layers)
+* [Application Layers](architecture.md#application-layers)
 
-#### Data Layer
+#### Data Layers
 
-The data layer is divided into two storage types:
+The data layers are divided into two storage types:
 
 * **Temporary Storage**: It is designed for high performance and utilized during training or inferencing phases.
 * **Permanent Storage**: This is a more cost-effective solution for long-term data storage. Third-party services are employed for permanent storage to optimize costs.
 
-#### System Layer
+#### System Layers
 
 The main layer comprises of three key components: **Blockchain**, **Query Mixer**, and **AI Node**.
 
@@ -40,9 +40,9 @@ The main layer comprises of three key components: **Blockchain**, **Query Mixer*
 * **AI Nodes**: These form the backbone of the AI inference system, efficiently handling complex AI tasks.
 * **SPECTER**: Darwin's zk-proof engine enhances privacy and security by generating zero-knowledge proofs for AI inferences.
 
-#### Application Layer
+#### Application Layers
 
-The application layer includes the following components:
+The application layers include the following components:
 
 * **Token/Transaction Operations**: This covers operations related to tokens or transactions, including interactions through wallets and blockchain explorers.
 * **DApps**: Decentralized applications like DeFi and AI-powered services.

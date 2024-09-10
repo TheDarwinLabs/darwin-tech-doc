@@ -1,6 +1,6 @@
 # How Darwin's Ecosystem Works
 
-<figure><img src="../../.gitbook/assets/Asset 27@300x (3).png" alt=""><figcaption><p>How Darwin Works</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Asset 3@300x (16).png" alt=""><figcaption><p>How Darwin Works</p></figcaption></figure>
 
 Darwin's ecosystem is structured into two primary components:&#x20;
 

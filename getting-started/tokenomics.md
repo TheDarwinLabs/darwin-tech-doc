@@ -2,7 +2,7 @@
 
 Darwin ecosystem is designed with an innovative tokenomics model and a gasless transaction approach to create a robust, decentralized AI marketplace. This article will delve into the core components of Darwin Chain's tokenomics, the roles of different participants, and how the gasless model works to provide a seamless user experience.
 
-<figure><img src="../.gitbook/assets/Asset 23@300x (7).png" alt=""><figcaption><p>Darwin Tokenomics Principles</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 2@300x (15).png" alt=""><figcaption><p>Darwin Tokenomics Principles</p></figcaption></figure>
 
 ### Tokenomics Model
 
@@ -78,7 +78,7 @@ DNA will be burned in the following scenarios:
 
 ### Gasless Model
 
-<figure><img src="../.gitbook/assets/darwin flow 4.gif" alt=""><figcaption><p>Gasless Model</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 21@300x (4).png" alt=""><figcaption><p>Gasless Model</p></figcaption></figure>
 
 The gasless model is designed to reduce barriers to entry by eliminating transaction costs for end-users.
 

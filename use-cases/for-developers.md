@@ -10,7 +10,7 @@ The platform is designed to lower the entry barriers for mass adoption among Web
 
 3. **Why is the blockchain built as a Layer 1 solution?**&#x20;
 
-Building as a Layer 1 solution allows us to tailor the blockchain specifically to the needs of decentralized AI operations without the constraints of underlying L1 blockchains. This flexibility enables us to implement unique features like our hybrid gas model and specialized consensus mechanisms that would be challenging to integrate at the Layer 2 level.
+Building as a Layer 1 solution allows us to tailor the blockchain specifically to the needs of decentralized AI operations without the constraints of underlying AI Layer blockchains. This flexibility enables us to implement unique features like our hybrid gas model and specialized consensus mechanisms that would be challenging to integrate at the Layer 2 level.
 
 4. **How does the platform ensure the security of AI transactions?**&#x20;
 
