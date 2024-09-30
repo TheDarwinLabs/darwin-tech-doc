@@ -4,13 +4,11 @@
 
 <figure><img src="../../.gitbook/assets/card 1.png" alt=""><figcaption><p>Current AI Landscape Problems</p></figcaption></figure>
 
-A few big tech giants dominate the current AI landscape, limiting innovation and competition. This centralization undervalues contributions from smaller AI builders and raises significant concerns about transparency and data privacy. AI remains a largely opaque "black box."
-
-Moreover, while blockchain offers decentralization and verifiability, it faces challenges with speed and cost. Running large AI models on a blockchain is inefficient and costly. Existing solutions like ZK and FHE improve verifiability but are not yet practical for widespread decentralized AI adoption.
+A few big tech giants dominate the current AI landscape, limiting innovation and competition. This centralization undervalues contributions from smaller AI builders and raises significant concerns about the scattered nature of the AI ecosystem.
 
 ### What is Darwin?
 
-Darwin is an economical, decentralized and unified blockchain AI layer, designed specifically for AI applications to address the systemic issues mentioned above. We aim to democratize AI development and deployment through a decentralized infrastructure that ensures security, scalability, and inclusivity.
+Darwin is an economical, decentralized, and unified blockchain AI layer tailored for AI applications, addressing the industry's systemic challenges. Our goal is to democratize AI development and deployment by providing decentralized infrastructure that ensures fair value distribution, scalability, and adaptability across diverse cultural contexts.
 
 **Key Features:**
 

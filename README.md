@@ -1,6 +1,6 @@
 # Overview
 
-Darwin is a movement toward a more equitable, transparent,  efficient and accessible AI future, aligning the interests of developers, contributors, and users.&#x20;
+Darwin aims to create a decentralized AI ecosystem that empowers users globally, challenging the dominance of big tech companies and disrupting their control over AI.
 
 {% hint style="warning" %}
 **Warning**:
