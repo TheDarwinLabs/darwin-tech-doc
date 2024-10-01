@@ -136,6 +136,6 @@ Each AI transaction uses a certain amount of $qDNA as a fee, permanently removin
 
 ### Feedback Loops
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Tokenomics Feedback Loops</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset 20@300x (3).png" alt=""><figcaption><p>Tokenomics Feedback Loops</p></figcaption></figure>
 
 Darwin Chain's tokenomics and gasless transaction model enable wider model coverage, more AI-native dApps, and ecosystem growth with additional models and improved governance. Increased support from developers, orchestrators, and compute nodes boosts the value of staked tokens, enhancing AI inference usage and raising the demand for $DNA.
